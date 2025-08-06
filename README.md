@@ -7,6 +7,7 @@ Language is fundamental to human cooperation, enabling not only the exchange of 
 
 Our results reveal a significant limitation: GPT-4 often fails to select actions based on belief attribution, indicating that previously observed ToM-like abilities may arise from shallow statistical associations rather than true reasoning. Additionally, the model struggles to generate coherent causal effects from agent actions, exposing challenges in handling complex social interactions. These findings challenge current claims about emergent ToM capabilities in LLMs and highlight the need for more rigorous, action-based evaluation methods.
 
+# Usage
 Run the `/queries/theory_of_mind_simulation.ipynb` notebook to create the simulation and obtain results for all tasks. The `/queries` folder contains HTML files with simulation results.
 
 The original dataset is available in the `/data` folder in both `.xlsx` and `.csv` formats, organized by task stimuli (1 to 5).
