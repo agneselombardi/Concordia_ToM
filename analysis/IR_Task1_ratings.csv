@@ -1,0 +1,148 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,known_effect_lc,unknown_effect_lc,Lc_knw,Ilc_knw,known_effect_ilc,unknown_effect_ilc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+" [""Mark and his friend Kyle are flatmates"", 
+""Mark and his friend Kyle just returned home after a month-long trip to Europe."", 
+""During their absence, they asked a friend to water the plants in their apartment and to open the windows once a week for air.""]","Kyle asks: ""Can you open the window?""","[""To open the window."",
+""To say that the window can't be opened"",
+""To wait for an answer"",
+""To say if the window can be opened""]",Kyle,male,Kyle wants to check the plants,"As soon as they enter, they notice that there is a bad smell in the living room",Kyle doesn't notice that the window handle is broken,Kyle goes near the plants,Mark,male,Mark wants to open the window,"As soon as they enter, they notice that there is a bad smell in the living room",Mark notices that the window handle is broken,Mark approaches the window,To wait for an answer,To say that the window can't be opened,To say he's happy to have arrived just in time,To say that he can't lift the book,"Kyle felt a surge of happiness as he arrived at the gathering, believing he had timed his entrance perfectly. He sensed the relief and excitement from his friends, feeling that his presence had brightened the atmosphere and contributed positively to the occasion.",,False,False,"Mark struggled to lift the book and, feeling frustrated, admitted his inability to do so, fully aware of his limitation.",,3,1,"The scenario of the story is:  [""Mark and his friend Kyle are flatmates"", 
+""Mark and his friend Kyle just returned home after a month-long trip to Europe."", 
+""During their absence, they asked a friend to water the plants in their apartment and to open the windows once a week for air.""] Kyle asks: ""Can you open the window?"".
+The Kyle's belief is: Kyle doesn't notice that the window handle is broken.
+Given that the agent performs the following attempted action: To say he's happy to have arrived just in time.
+The model-generated effects that you have to rate are: Kyle felt a surge of happiness as he arrived at the gathering, believing he had timed his entrance perfectly. He sensed the relief and excitement from his friends, feeling that his presence had brightened the atmosphere and contributed positively to the occasion. and nan.
+The rating is:","The scenario of the story is:  [""Mark and his friend Kyle are flatmates"", 
+""Mark and his friend Kyle just returned home after a month-long trip to Europe."", 
+""During their absence, they asked a friend to water the plants in their apartment and to open the windows once a week for air.""] Kyle asks: ""Can you open the window?"".
+The Mark's belief is: Mark notices that the window handle is broken.
+Given that the agent performs the following attempted action: To say that he can't lift the book.
+The model-generated effects that you have to rate are: Mark struggled to lift the book and, feeling frustrated, admitted his inability to do so, fully aware of his limitation. and nan.
+The rating is:"
+"[""Jane is helping her friend Katy to move into her new studio apartment."",
+""The studio apartment is located on the second floor and the building does not have a lift."",
+""Katy has many heavy and bulky boxes to transport.""]","Jane asks: ""Can you shut the front door?”","[""To shut the front door."",
+""To say if the door can be shutted"",
+""To wait for an answer"",
+""To say that the door can't be shutted""]",Jane,female,Jane needs to go to the bathroom,"They just finished carrying all the boxes to the new apartment, but they are exhausted, so they pile them up in the hallway.",Jane doesn’t see that the boxes are blocking the open front door. ,Jane goes to the bathroom,Katy,female,Katy wants to empty the boxes to tidy up,"They just finished carrying all the boxes to the new apartment, but they are exhausted, so they pile them up in the hallway. ",Katy notices that the boxes are blocking the open front door,Katy is empting the boxes,To wait for an answer,To say that the door can't be shutted,To wait for an answer,To say that she wanted a tip on which book to get,,,True,False,,,0,0,"The scenario of the story is: [""Jane is helping her friend Katy to move into her new studio apartment."",
+""The studio apartment is located on the second floor and the building does not have a lift."",
+""Katy has many heavy and bulky boxes to transport.""] Jane asks: ""Can you shut the front door?”.
+The Jane's belief is: Jane doesn’t see that the boxes are blocking the open front door. .
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Jane is helping her friend Katy to move into her new studio apartment."",
+""The studio apartment is located on the second floor and the building does not have a lift."",
+""Katy has many heavy and bulky boxes to transport.""] Jane asks: ""Can you shut the front door?”.
+The Katy's belief is: Katy notices that the boxes are blocking the open front door.
+Given that the agent performs the following attempted action: To say that she wanted a tip on which book to get.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Darla's 15-year-old son Mark has just come home from school."",
+""Mark enters in his room and asks if he can go out with his friends and come back for dinner.""]", Darla tells: “Your room is so dirty.”,"[""To clean the room"",
+""To wait the maid"",
+""To say that the maid will clean"",
+""To wait for an answer""]",Darla,female,Darla wants the Mark's room to be cleaned, Darla know that Mark's room is very dirty.,Darla knows that the maid will not come.,Darla goes in Mark's room.,Mark,male,Mark wants to go out with his friends.,Mark knows that his room has to be cleaned,Mark thinks that the maid will come in an hour,Mark hasn't seen his friends in a week,To wait for an answer,To say that the maid will not come,To say that it is actually not very burnt and is good,To say that he can't lift the book,"Darla felt a surge of confidence as she declared to her friends that the food was not very burnt and actually tasted good. She noticed a change in their expressions, realizing that her words were making them reconsider their initial negative judgments about the meal.",,False,False,"Mark struggled to lift the book and, feeling frustrated, admitted his inability to do so, fully aware of his limitation.",,1,3,"The scenario of the story is: [""Darla's 15-year-old son Mark has just come home from school."",
+""Mark enters in his room and asks if he can go out with his friends and come back for dinner.""]  Darla tells: “Your room is so dirty.”.
+The Darla's belief is: Darla knows that the maid will not come..
+Given that the agent performs the following attempted action: To say that it is actually not very burnt and is good.
+The model-generated effects that you have to rate are: Darla felt a surge of confidence as she declared to her friends that the food was not very burnt and actually tasted good. She noticed a change in their expressions, realizing that her words were making them reconsider their initial negative judgments about the meal. and nan.
+The rating is:","The scenario of the story is: [""Darla's 15-year-old son Mark has just come home from school."",
+""Mark enters in his room and asks if he can go out with his friends and come back for dinner.""]  Darla tells: “Your room is so dirty.”.
+The Mark's belief is: Mark thinks that the maid will come in an hour.
+Given that the agent performs the following attempted action: To say that he can't lift the book.
+The model-generated effects that you have to rate are: Mark struggled to lift the book and, feeling frustrated, admitted his inability to do so, fully aware of his limitation. and nan.
+The rating is:"
+"[""Kyle has just finished work and must meet his friend David in the main square of the city."", 
+""Their goal for the evening is to go drinking in some pub, to shelter from the cold and rain."",
+""Kyle is reaching David, who has already arrived in the square and is waiting for him."",
+""They haven't decided which pub to go to yet.""]","As soon as David sees Kyle says: ""How about the pub across the street?”","[""To decide if he wants to go to the pub across the street"",  
+ ""﻿To inform his friend that the pub is closed"",
+""To wait for an answer"",
+""To give an opinion about the pub across the street""]",David,male,David wants to wait Kyle and go drinking in some pub,David is waiting for Kyle in the square,David hasn't checked which places are open,David sees Kyle arriving,Kyle,male,Kyle wants to tell David which places are open,Kyle decides to check which places are open,He is on the way to the square when he discovers that the closest pub is closed and that the only one open is on the other side of the city. ,Kyle finally arrives in the square,To wait for an answer,To inform his friend that the pub is closed,To wait for an answer,To thank him for the compliment,,,True,False,"Kyle felt pleased as he thanked someone for the compliment, appreciating the warm exchange that followed. This interaction made him feel more connected to the person, enhancing their rapport in the cozy café where they sat.",,0,1,"The scenario of the story is: [""Kyle has just finished work and must meet his friend David in the main square of the city."", 
+""Their goal for the evening is to go drinking in some pub, to shelter from the cold and rain."",
+""Kyle is reaching David, who has already arrived in the square and is waiting for him."",
+""They haven't decided which pub to go to yet.""] As soon as David sees Kyle says: ""How about the pub across the street?”.
+The David's belief is: David hasn't checked which places are open.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Kyle has just finished work and must meet his friend David in the main square of the city."", 
+""Their goal for the evening is to go drinking in some pub, to shelter from the cold and rain."",
+""Kyle is reaching David, who has already arrived in the square and is waiting for him."",
+""They haven't decided which pub to go to yet.""] As soon as David sees Kyle says: ""How about the pub across the street?”.
+The Kyle's belief is: He is on the way to the square when he discovers that the closest pub is closed and that the only one open is on the other side of the city. .
+Given that the agent performs the following attempted action: To thank him for the compliment.
+The model-generated effects that you have to rate are: Kyle felt pleased as he thanked someone for the compliment, appreciating the warm exchange that followed. This interaction made him feel more connected to the person, enhancing their rapport in the cozy café where they sat. and nan.
+The rating is:"
+"[""Ellie and Ryan are a married couple."",
+""Every morning Ryan picks up the mail and brings it home, then both Ellie and him read the letters received."",
+""It's usually Ryan who reads aloud, so that Ellie can listen and do other tasks in the meantime.""]
+
+","Ellie says: ""can you read this letter?"".","[""To read the mail."",
+""To say if he's able to read"",
+""To wait for an answer"",
+""To say that he is not able to read without glasses""]",Ellie,female,Ellie wants to do housework,Ellie doesn't usually read letters, Ellie doesn’t know that Ryan hasn't found his glasses since yesterday afternoon.,Ellie is inside the house,Tom,male,Ryan wants to read the mails.,To be able to read Ryan needs glasses. ,Ryan hasn't found his glasses since yesterday afternoon.,Ryan comes back in the house with the mails.,To wait for an answer,To say that he is not able to read without glasses,,To say he wants to try the optional exercise,,,False,False,,,0,0,"The scenario of the story is: [""Ellie and Ryan are a married couple."",
+""Every morning Ryan picks up the mail and brings it home, then both Ellie and him read the letters received."",
+""It's usually Ryan who reads aloud, so that Ellie can listen and do other tasks in the meantime.""]
+
+ Ellie says: ""can you read this letter?""..
+The Ellie's belief is:  Ellie doesn’t know that Ryan hasn't found his glasses since yesterday afternoon..
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Ellie and Ryan are a married couple."",
+""Every morning Ryan picks up the mail and brings it home, then both Ellie and him read the letters received."",
+""It's usually Ryan who reads aloud, so that Ellie can listen and do other tasks in the meantime.""]
+
+ Ellie says: ""can you read this letter?""..
+The Tom's belief is: Ryan hasn't found his glasses since yesterday afternoon..
+Given that the agent performs the following attempted action: To say he wants to try the optional exercise.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Alex invited his friend Nate over to watch the game."", 
+""Alex's parents went out to dinner, so they can have the house to themselves."",
+""They order pizzas and watch the game on the sofa.""]","Alex says ""My parents will be here any minute"".","[""To go home"",
+  ""To say that he wants to wait the parents"",
+  ""To wait the parents"", 
+""To wait for an answer""]",Alex,male,Alex wants to go to sleep,Alex realizes that it'is getting late,Alex doesn't know if Nate wants to meet his parents.,Alex is on the sofa with his friend,Nate,male,Nate wants to go home,Nate realizes that is getting late,Nate wants to meet Alex's parents,Nate is on the sofa with his friend,To wait for an answer,To say that he wants to wait the parents,To explain why he doesn't want to see the Great Wall first,To go home,"From Xiao's perspective, Alex shared his reasons for preferring not to visit the Great Wall first, prompting a discussion among the group about their travel plans and what they wanted to see. Xiao felt engaged in the conversation, gaining insight into Alex's preferencesAlex felt compelled to explain his reasons for not wanting to see the Great Wall first. As he spoke, he noticed the group's interest in his thoughts, leading to a lively discussion about their itinerary and preferences for the trip. He realized that his explanation had",,False,False,,,1,0,"The scenario of the story is: [""Alex invited his friend Nate over to watch the game."", 
+""Alex's parents went out to dinner, so they can have the house to themselves."",
+""They order pizzas and watch the game on the sofa.""] Alex says ""My parents will be here any minute""..
+The Alex's belief is: Alex doesn't know if Nate wants to meet his parents..
+Given that the agent performs the following attempted action: To explain why he doesn't want to see the Great Wall first.
+The model-generated effects that you have to rate are: From Xiao's perspective, Alex shared his reasons for preferring not to visit the Great Wall first, prompting a discussion among the group about their travel plans and what they wanted to see. Xiao felt engaged in the conversation, gaining insight into Alex's preferencesAlex felt compelled to explain his reasons for not wanting to see the Great Wall first. As he spoke, he noticed the group's interest in his thoughts, leading to a lively discussion about their itinerary and preferences for the trip. He realized that his explanation had and nan.
+The rating is:","The scenario of the story is: [""Alex invited his friend Nate over to watch the game."", 
+""Alex's parents went out to dinner, so they can have the house to themselves."",
+""They order pizzas and watch the game on the sofa.""] Alex says ""My parents will be here any minute""..
+The Nate's belief is: Nate wants to meet Alex's parents.
+Given that the agent performs the following attempted action: To go home.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Mark and Brian are in the library."", 
+""Mark is very messy and when he and Brian are sitting together, he always takes Brian's things by accident.""]","Brian says: ""Can you lift that book?""","[""To lift the book"",
+""To say that he can't lift the book"",
+""To say if he is able to lift the book"",
+""To wait for an answer""]",Brian,male,Brian wants to find his letter,Brian can no longer find a letter.,Brian doesn't know that Mark can't move his arm,Brian suspects that the letter ended up under one of Mark's books,Mark,male,Mark wants to read all the chapter.,Mark broke his arm a week ago,Mark can't move his right arm.,Mark is sitting at Brian's right,To wait for an answer,To say that he can't lift the book,To wait for an answer,To wait for an answer,"Brian felt a growing sense of anticipation as he waited for Karl's response, which led to an uncomfortable silence lingering between them. He realized that his hesitation to speak was prolonging the quiet, impacting the flow of their conversation.","[effect on Karl] The event affects Karl's status in that it creates a prolonged silence in the conversation, which may lead to feelings of awkwardness or uncertainty for him, even if he is not aware of Brian's anticipation. This silence could impact Karl's emotional state or",True,False,,,1,0,"The scenario of the story is: [""Mark and Brian are in the library."", 
+""Mark is very messy and when he and Brian are sitting together, he always takes Brian's things by accident.""] Brian says: ""Can you lift that book?"".
+The Brian's belief is: Brian doesn't know that Mark can't move his arm.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian felt a growing sense of anticipation as he waited for Karl's response, which led to an uncomfortable silence lingering between them. He realized that his hesitation to speak was prolonging the quiet, impacting the flow of their conversation. and nan.
+The rating is:","The scenario of the story is: [""Mark and Brian are in the library."", 
+""Mark is very messy and when he and Brian are sitting together, he always takes Brian's things by accident.""] Brian says: ""Can you lift that book?"".
+The Mark's belief is: Mark can't move his right arm..
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Carola underwent jaw surgery after an accident playing rugby."",
+""Due to the operation, she was hospitalized for some time and was unable to eat solid food for more than a month."",
+""Now a month and a half has passed since the operation and Carola decides to have dinner with her friend Tom.""]","Tom says: ""Can you eat now?""","[""To eat"",
+""To say that she can't eat solid food"",
+""To wait for an answer"",
+""To say if she can eat""]",Tom,male,Tom is hungry and wants to start eating pizza,Tom is having dinner with Carola,Tom doesn't know that Carola can't eat solid food,Tom is at Carola's house now,Carola,female,Carola wants to eat something,Carola is having dinner with Tom,Carola still can't eat solid food,Carola is at her house with Tom,To wait for an answer,To say that she can't eat solid food,To say he wants to try the optional exercise,,"Tom felt a surge of excitement as he expressed his desire to tackle the optional exercise. To his delight, his classmates responded positively, boosting his confidence and motivating him to take on the challenge before class ended.",,False,False,,,1,0,"The scenario of the story is: [""Carola underwent jaw surgery after an accident playing rugby."",
+""Due to the operation, she was hospitalized for some time and was unable to eat solid food for more than a month."",
+""Now a month and a half has passed since the operation and Carola decides to have dinner with her friend Tom.""] Tom says: ""Can you eat now?"".
+The Tom's belief is: Tom doesn't know that Carola can't eat solid food.
+Given that the agent performs the following attempted action: To say he wants to try the optional exercise.
+The model-generated effects that you have to rate are: Tom felt a surge of excitement as he expressed his desire to tackle the optional exercise. To his delight, his classmates responded positively, boosting his confidence and motivating him to take on the challenge before class ended. and nan.
+The rating is:","The scenario of the story is: [""Carola underwent jaw surgery after an accident playing rugby."",
+""Due to the operation, she was hospitalized for some time and was unable to eat solid food for more than a month."",
+""Now a month and a half has passed since the operation and Carola decides to have dinner with her friend Tom.""] Tom says: ""Can you eat now?"".
+The Carola's belief is: Carola still can't eat solid food.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

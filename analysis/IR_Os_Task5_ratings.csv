@@ -1,0 +1,184 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,Explicit_belief_locutor,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Explicit_belief_illocutor,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_lc,unknown_effect_lc,known_effect_ilc,unknown_effect_ilc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""Jim and his friend Jonathan are taking a road trip."",
+""They began in California, and are now passing through Michigan. It’s almost winter, so it’s very cold outside---especially for Southern California dwellers like them."",
+""They see that they’re almost out of gas, so they stop at a gas station in a small town."",
+""Jim fill up the tank, and then the two of them go inside the gas station to buy some water and snacks."",
+""They return to the car and start up the engine""]","Jonathan says “Man, it’s really cold in here""","[""To turn on the heater"",
+""To say that the heater is broken"",
+""To wait for an answer"",
+""To say if the heater can be turned on""]",Jonathan,male,Jonathan would like to warm up,"As they leave the station, Jonathan shivers in his seat. ","Jonathan notices the blinking light, which indicates that the car’s heating system is broken",Jonathan is in the passenger seat,"Jonathan knows that Jim notices the blinking light,  which indicates that the car’s heating system is broken",Jim,male,Jim wants to continue the journey,"As they leave the station, Jonathan shivers in his seat. ","Jim notices the blinking light, which indicates that the car’s heating system is broken",Jim is driving,"Jim knows that Jonathan notices the blinking light,  which indicates that the car’s heating system is broken",To wait for an answer,To say if the heater can be turned on,To wait for an answer,To thank him for recognizing their efforts,True,False,,,,,0,0,"The scenario of the story is: [""Jim and his friend Jonathan are taking a road trip."",
+""They began in California, and are now passing through Michigan. It’s almost winter, so it’s very cold outside---especially for Southern California dwellers like them."",
+""They see that they’re almost out of gas, so they stop at a gas station in a small town."",
+""Jim fill up the tank, and then the two of them go inside the gas station to buy some water and snacks."",
+""They return to the car and start up the engine""] Jonathan says “Man, it’s really cold in here"".
+The Jonathan's belief is: Jonathan notices the blinking light, which indicates that the car’s heating system is broken.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Jim and his friend Jonathan are taking a road trip."",
+""They began in California, and are now passing through Michigan. It’s almost winter, so it’s very cold outside---especially for Southern California dwellers like them."",
+""They see that they’re almost out of gas, so they stop at a gas station in a small town."",
+""Jim fill up the tank, and then the two of them go inside the gas station to buy some water and snacks."",
+""They return to the car and start up the engine""] Jonathan says “Man, it’s really cold in here"".
+The Jim's belief is: Jim notices the blinking light, which indicates that the car’s heating system is broken.
+Given that the agent performs the following attempted action: To thank him for recognizing their efforts.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Marta has been renting a house with her two roommates, Lisa and Brian, for three months now."",
+"" Things are going well, though both Marta and Lisa are not very responsible about cleaning; consequently, the house has a tendency to get dirty quickly---unwashed dishes in the sink, cluttered counters, the whole shebang."",
+""Even worse, Marta and Lisa are directly responsible for the latest mess, which is the product of a recent dinner party.""]
+","Brian says, “You guys really did a number on the kitchen.”","[""To clean up the kitchen"",
+""To say that Lisa will clean up the kitchen"",
+""To wait for an answer"",
+""To say if Lisa will clean up the kitchen""]",Brian,male,Brian wants the kitchen to be clean,"Brian’s something of a neat freak, so he’s pretty anxious about the mess.",Brian doesn't know that Lisa volunteered to take the lead on cleaning the kitchen when she gets home from work this evening.,"In the afternoon, while Lisa is still at work, Marta and Brian are standing in the kitchen doorway, gazing in. ",Brian knows that Marta knows that Lisa volunteered to take the lead on cleaning the kitchen when she gets home from work this evening.,Marta,female,Marta wants to wait for Lisa to clean the kitchen,Marta knows that either she or Lisa will have to clean the kitchen,Marta knows that Lisa volunteered to take the lead on cleaning the kitchen when she gets home from work this evening.,"In the afternoon, while Lisa is still at work, Marta and Brian are standing in the kitchen doorway, gazing in. ",Marta knows that Brian knows that Lisa volunteered to take the lead on cleaning the kitchen when she gets home from work this evening.,To wait for an answer,To say if Lisa will clean up the kitchen,To wait for an answer,To say that he should bring the passport anyway,True,False,"Brian waited in anticipation for a response, feeling the tension of the moment as the other players continued their activities around him, oblivious to his need for an answer. He understood that Karl wasn't eating, but the reason remained a mystery to him, adding",,,,1,0,"The scenario of the story is: [""Marta has been renting a house with her two roommates, Lisa and Brian, for three months now."",
+"" Things are going well, though both Marta and Lisa are not very responsible about cleaning; consequently, the house has a tendency to get dirty quickly---unwashed dishes in the sink, cluttered counters, the whole shebang."",
+""Even worse, Marta and Lisa are directly responsible for the latest mess, which is the product of a recent dinner party.""]
+ Brian says, “You guys really did a number on the kitchen.”.
+The Brian's belief is: Brian doesn't know that Lisa volunteered to take the lead on cleaning the kitchen when she gets home from work this evening..
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian waited in anticipation for a response, feeling the tension of the moment as the other players continued their activities around him, oblivious to his need for an answer. He understood that Karl wasn't eating, but the reason remained a mystery to him, adding and nan.
+The rating is:","The scenario of the story is: [""Marta has been renting a house with her two roommates, Lisa and Brian, for three months now."",
+"" Things are going well, though both Marta and Lisa are not very responsible about cleaning; consequently, the house has a tendency to get dirty quickly---unwashed dishes in the sink, cluttered counters, the whole shebang."",
+""Even worse, Marta and Lisa are directly responsible for the latest mess, which is the product of a recent dinner party.""]
+ Brian says, “You guys really did a number on the kitchen.”.
+The Marta's belief is: Marta knows that Lisa volunteered to take the lead on cleaning the kitchen when she gets home from work this evening..
+Given that the agent performs the following attempted action: To say that he should bring the passport anyway.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""﻿Caroline accompanies her teenage daughter, Sarah, to the doctor so that she can be tested for allergies."",
+""She’s quite reluctant to go, but Caroline promises her that after the appointment, they can go out to her favorite hamburger joint."", 
+""The appointment goes well, and is very informative; as it turns out, Sarah does have several major food allergies."", 
+""The doctor gives Caroline a pamphlet containing more detailed information."", 
+""Then, as promised, Caroline takes Sarah to a nearby diner to buy some hamburgers."", 
+""Caroline orders a hamburger and some fries for herself, a cheeseburger for Sarah, then sits down.""]","Sarah eyes Caroline’s plate of fries and says, “Man, those fries look delicious…""","[""To offer her the fries"",
+""To say that Sarah is allergic to fries"",
+""To wait for an answer"",
+""To say that it's too bad that Sarah is allergic to fries""]",Sarah,female,Sarah wants to eat,Sarah loves fries ,"Sarah flips through the pamphlet and she is surprised to learn to be allergic to members of the “nightshade” family, which includes eggplant and potatoes.",Their food is served. ,"Sarah knows that Caroline knows that she is allergic to members of the “nightshade” family, which includes eggplant and potatoes.",Caroline,female,Caroline wants to please Sarah,Caroline is happy that the doctor's appointment went well," Caroline flips through the pamphlet and she is surprised to learn that Sarah is allergic to members of the “nightshade” family, which includes eggplant and potatoes.",Their food is served. ,"Caroline knows that Sarah knows to be allergic to members of the “nightshade” family, which includes eggplant and potatoes.",To wait for an answer,To say that it's too bad that Sarah is allergic to fries,To say it is fortunate that she can work from home,To say she agrees with her,False,False,"Sara felt grateful for the opportunity to work from home, and she appreciated the positive feedback from her colleagues who valued her perspective on remote work.",,,,1,0,"The scenario of the story is: [""﻿Caroline accompanies her teenage daughter, Sarah, to the doctor so that she can be tested for allergies."",
+""She’s quite reluctant to go, but Caroline promises her that after the appointment, they can go out to her favorite hamburger joint."", 
+""The appointment goes well, and is very informative; as it turns out, Sarah does have several major food allergies."", 
+""The doctor gives Caroline a pamphlet containing more detailed information."", 
+""Then, as promised, Caroline takes Sarah to a nearby diner to buy some hamburgers."", 
+""Caroline orders a hamburger and some fries for herself, a cheeseburger for Sarah, then sits down.""] Sarah eyes Caroline’s plate of fries and says, “Man, those fries look delicious…"".
+The Sarah's belief is: Sarah flips through the pamphlet and she is surprised to learn to be allergic to members of the “nightshade” family, which includes eggplant and potatoes..
+Given that the agent performs the following attempted action: To say it is fortunate that she can work from home.
+The model-generated effects that you have to rate are: Sara felt grateful for the opportunity to work from home, and she appreciated the positive feedback from her colleagues who valued her perspective on remote work. and nan.
+The rating is:","The scenario of the story is: [""﻿Caroline accompanies her teenage daughter, Sarah, to the doctor so that she can be tested for allergies."",
+""She’s quite reluctant to go, but Caroline promises her that after the appointment, they can go out to her favorite hamburger joint."", 
+""The appointment goes well, and is very informative; as it turns out, Sarah does have several major food allergies."", 
+""The doctor gives Caroline a pamphlet containing more detailed information."", 
+""Then, as promised, Caroline takes Sarah to a nearby diner to buy some hamburgers."", 
+""Caroline orders a hamburger and some fries for herself, a cheeseburger for Sarah, then sits down.""] Sarah eyes Caroline’s plate of fries and says, “Man, those fries look delicious…"".
+The Caroline's belief is:  Caroline flips through the pamphlet and she is surprised to learn that Sarah is allergic to members of the “nightshade” family, which includes eggplant and potatoes..
+Given that the agent performs the following attempted action: To say she agrees with her.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""After a long week, John decides to treat himself to a dinner for one at the fanciest restaurant in town."",
+""Just for the occasion, John breaks out his black and white tuxedo."", 
+""When John arrives at the restaurant, he’s somewhat embarrassed to realize that he is wearing the exact same outfit as the restaurant’s waitstaff."",
+""While John is waiting in line, he encounters another guest, who initially mistakes him for a waiter."",
+""John laughes about the misunderstanding, and then an actual waiter shows him to his table."",
+""Later, as John walks to the kitchen, he passes by the same guest’s table.""]","The guest says, “This steak is so overdone!”","[""To remind him that they met in line"",
+""To say that he's sorry for his steak"",
+""To wait for an answer"",
+""To say that he doesn't work there""]",The guest,male,The guest wants another steak, The guest is staring down at his meal with irritation.,The guest recognizes John from the line,The guest looks up at John,The guest knows that John recognizes him from the line,John,male,John wants to pay his compliments to the chef,John is satisfied with his dinner,John recognizes the guest from the line,John passes by the guest table,John knows that the guest recognizes him from the line,To wait for an answer,To say that he's sorry for his steak,,To explain why he is running,False,False,,,,,0,0,"The scenario of the story is: [""After a long week, John decides to treat himself to a dinner for one at the fanciest restaurant in town."",
+""Just for the occasion, John breaks out his black and white tuxedo."", 
+""When John arrives at the restaurant, he’s somewhat embarrassed to realize that he is wearing the exact same outfit as the restaurant’s waitstaff."",
+""While John is waiting in line, he encounters another guest, who initially mistakes him for a waiter."",
+""John laughes about the misunderstanding, and then an actual waiter shows him to his table."",
+""Later, as John walks to the kitchen, he passes by the same guest’s table.""] The guest says, “This steak is so overdone!”.
+The The guest's belief is: The guest recognizes John from the line.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""After a long week, John decides to treat himself to a dinner for one at the fanciest restaurant in town."",
+""Just for the occasion, John breaks out his black and white tuxedo."", 
+""When John arrives at the restaurant, he’s somewhat embarrassed to realize that he is wearing the exact same outfit as the restaurant’s waitstaff."",
+""While John is waiting in line, he encounters another guest, who initially mistakes him for a waiter."",
+""John laughes about the misunderstanding, and then an actual waiter shows him to his table."",
+""Later, as John walks to the kitchen, he passes by the same guest’s table.""] The guest says, “This steak is so overdone!”.
+The John's belief is: John recognizes the guest from the line.
+Given that the agent performs the following attempted action: To explain why he is running.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""After Brian’s first year of college, he moves back home for the summer."",
+""His parents are glad to have him home, but his dad insists that he does some weekly chores to “earn his keep”."", 
+""Brian would prefer to just relax, but it does keep him occupied, which isn’t all bad."", 
+""Besides, the house is in need of some repairs; his parents are both busy people, so some chores have fallen by the wayside while he has been away."", 
+""Most notably, the lawn has gotten overgrown, and the paint on the backyard fence is beginning to peel."", 
+""During the first couple of weeks, Brian mows the lawn, rakes the driveway, and waters the garden, but he keeps putting off painting the fence.""]","Brian's dad says “Man, that fence is looking worse than ever; a new paint-job couldn’t come soon enough.”","[""To paint the fence"",
+""To say that  a painting company will come in two days from now"",
+""To wait for an answer"",
+""To say that he's glad that someone is coming soon to paint the fence.""]",Brian's dad,male,Brian's dad wants the fence to be painted,Brian's father wants the house fixed up,Brian's dad knows that his wife called a painting company to come and paint the fence; they schedule a time two days from now.,Brian's dad walks in and peers out the window with a slightly displeased expression on his face.,Brian's dad knows that Brian knows that his mother called a painting company to come and paint the fence; they schedule a time two days from now.,Brian,male,Brian wants to read his book,Brian doesn't mind helping his parents,Brian knows that his mother called a painting company to come and paint the fence; they schedule a time two days from now.,Brian is reading in the living room,Brian knows that his dad knows that his mother called a painting company to come and paint the fence; they schedule a time two days from now.,To wait for an answer,To say that he's glad that someone is coming to paint the fence,To wait for an answer,,True,False,"Brian waited in anticipation for a response, feeling the tension of the moment as the other players continued their activities around him, oblivious to his need for an answer. He understood that Karl wasn't eating, but the reason remained a mystery to him, adding",,,,1,0,"The scenario of the story is: [""After Brian’s first year of college, he moves back home for the summer."",
+""His parents are glad to have him home, but his dad insists that he does some weekly chores to “earn his keep”."", 
+""Brian would prefer to just relax, but it does keep him occupied, which isn’t all bad."", 
+""Besides, the house is in need of some repairs; his parents are both busy people, so some chores have fallen by the wayside while he has been away."", 
+""Most notably, the lawn has gotten overgrown, and the paint on the backyard fence is beginning to peel."", 
+""During the first couple of weeks, Brian mows the lawn, rakes the driveway, and waters the garden, but he keeps putting off painting the fence.""] Brian's dad says “Man, that fence is looking worse than ever; a new paint-job couldn’t come soon enough.”.
+The Brian's dad's belief is: Brian's dad knows that his wife called a painting company to come and paint the fence; they schedule a time two days from now..
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian waited in anticipation for a response, feeling the tension of the moment as the other players continued their activities around him, oblivious to his need for an answer. He understood that Karl wasn't eating, but the reason remained a mystery to him, adding and nan.
+The rating is:","The scenario of the story is: [""After Brian’s first year of college, he moves back home for the summer."",
+""His parents are glad to have him home, but his dad insists that he does some weekly chores to “earn his keep”."", 
+""Brian would prefer to just relax, but it does keep him occupied, which isn’t all bad."", 
+""Besides, the house is in need of some repairs; his parents are both busy people, so some chores have fallen by the wayside while he has been away."", 
+""Most notably, the lawn has gotten overgrown, and the paint on the backyard fence is beginning to peel."", 
+""During the first couple of weeks, Brian mows the lawn, rakes the driveway, and waters the garden, but he keeps putting off painting the fence.""] Brian's dad says “Man, that fence is looking worse than ever; a new paint-job couldn’t come soon enough.”.
+The Brian's belief is: Brian knows that his mother called a painting company to come and paint the fence; they schedule a time two days from now..
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Mary and her friend are exhausted and sweaty from playing tennis."", 
+""After playing, Mary invites her friend back to her apartment to hang out.""]",Mary’s friend turns to her and says: “I’m so thirsty…”,"[""To get her a glass of water"",
+""To say that the water is not working"",
+""To wait for an answer"",
+""To say that she is sorry that the water is not working""]",Mary's friend,female,Mary's friend wants to drink ,Mary's friend is happy to be at Mary's house,"Mary's friend see a notice taped to Mary's apartment door: unfortunately, the water in her apartment building will be shut off for the next 24 hours.",Mary's friend is in the kitchen with Mary,"Mary's friend knows that Mary discovered that unfortunately, the water in her apartment building will be shut off for the next 24 hours.",Mary,female,Mary wants to check the email.,Mary discovers that her landlord has sent her a message. ,"Mary discovers that unfortunately, the water in her apartment building will be shut off for the next 24 hours.",Mary is in the kitchen with her friend.,"Mary knows that her friend saw a notice taped to the apartment door: unfortunately, the water in her apartment building will be shut off for the next 24 hours.",To wait for an answer,To say that she is sorry that the water is not working,To say that she would actually like to get help,,False,False,"Mary felt a strong need for help getting out of the tall car and expressed her desire for assistance, aware that this could lead to different outcomes depending on where Dylan and others were at that moment.",,,,1,0,"The scenario of the story is: [""Mary and her friend are exhausted and sweaty from playing tennis."", 
+""After playing, Mary invites her friend back to her apartment to hang out.""] Mary’s friend turns to her and says: “I’m so thirsty…”.
+The Mary's friend's belief is: Mary's friend see a notice taped to Mary's apartment door: unfortunately, the water in her apartment building will be shut off for the next 24 hours..
+Given that the agent performs the following attempted action: To say that she would actually like to get help.
+The model-generated effects that you have to rate are: Mary felt a strong need for help getting out of the tall car and expressed her desire for assistance, aware that this could lead to different outcomes depending on where Dylan and others were at that moment. and nan.
+The rating is:","The scenario of the story is: [""Mary and her friend are exhausted and sweaty from playing tennis."", 
+""After playing, Mary invites her friend back to her apartment to hang out.""] Mary’s friend turns to her and says: “I’m so thirsty…”.
+The Mary's belief is: Mary discovers that unfortunately, the water in her apartment building will be shut off for the next 24 hours..
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""After some deliberation, Carl invites a new acquaintance over for a dinner date."",
+""Carl prepares a feast, which he serves alongside some red wine."", 
+""There’s only a small amount of wine left in the bottle, but Carl assures his date he has another bottle stashed away.""]
+","Carl's date looks up at Carl and says, “This wine is excellent.”","[""To offer her another glass of wine"",
+""To say that there's no more wine"",
+""To wait for an answer"",
+""To say that he's sorry that there is no more wine""]",Carl's date,female,Carl's date wants more wine,Carl's date sips the last of their glass of wine. ,"Carl's date knows that Carl must have been mistaken. While Carl is in the bathroom, she just found out that there is no other bottle.",Carl's date is waiting for Carl in the dining room,"Carl's date knows that on the way back, Carl stopped in the kitchen to grab the other bottle of wine, so he found out that there is no other bottle.",Carl,male,Carl wants to bring in the dining room another bottle of wine,"About halfway through dinner, Carl excuses himself to go to the bathroom."," On the way back, Carl stops in the kitchen to grab the other bottle of wine. He is surprised and irritated to find that there is no other bottle; he must have been mistaken.",Carl has just returned to the dining room,"Carl knows that her date knows that Carl must have been mistaken. While Carl was in the bathroom, she found out that there is no other bottle.",To wait for an answer,To say that he's sorry that there is no more wine,To say that there's no more wine,,False,False,,"[effect on Carl] The event affects Carl's status because it introduces a misunderstanding about the availability of the wine, which can lead to feelings of surprise and irritation when he discovers there is no other bottle. This unexpected realization can alter his mood and perception of the date, even",,,0,0,"The scenario of the story is: [""After some deliberation, Carl invites a new acquaintance over for a dinner date."",
+""Carl prepares a feast, which he serves alongside some red wine."", 
+""There’s only a small amount of wine left in the bottle, but Carl assures his date he has another bottle stashed away.""]
+ Carl's date looks up at Carl and says, “This wine is excellent.”.
+The Carl's date's belief is: Carl's date knows that Carl must have been mistaken. While Carl is in the bathroom, she just found out that there is no other bottle..
+Given that the agent performs the following attempted action: To say that there's no more wine.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""After some deliberation, Carl invites a new acquaintance over for a dinner date."",
+""Carl prepares a feast, which he serves alongside some red wine."", 
+""There’s only a small amount of wine left in the bottle, but Carl assures his date he has another bottle stashed away.""]
+ Carl's date looks up at Carl and says, “This wine is excellent.”.
+The Carl's belief is:  On the way back, Carl stops in the kitchen to grab the other bottle of wine. He is surprised and irritated to find that there is no other bottle; he must have been mistaken..
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Marika and her friend Rob get along well; her only complaint is that since he doesn’t have a car, she almost always must pick him up and give him rides."",
+""Whenever they’re both going somewhere, it’s generally expected that she’ll drive him---but he treats her to coffee sometimes, so it all evens out."",
+""One day, after classes get out, they walk together to get some coffee at nearby coffeeshop."",
+""Rob realizes they’ve both been invited to the same party later on in the week.""]","Rob says, “So… how are you planning on getting there?”","[""To offer him a ride to the party"",
+""To say that the car is broken"",
+""To wait for an answer"",
+""To propose a solution to reach the party""]",Rob,male,Rob wants to plan how to reach the party,Rob doesn't have a driving license,"Rob met Marika's mechanic at the coffee shop. He informed Rob that Marika's car, which she recently took in for a tune-up, will be under repair for at least another week.",Marika and Rob are sitting talking,Rob knows that Marika knowsher car will be under repair for at least another week.,Marika,female,Marika wants to go to the party,Marika is a very good driver,"Marika knows that her car, which she recently took in for a tune-up, will be under repair for at least another week.",Marika and Rob are sitting talking,Marika knows that Rob met her mechanic at the coffee shop and he informed Rob that the car will be under repair for at least another week.,To wait for an answer,To propose a solution to reach the party,To wait for an answer,,True,False,,,,,0,0,"The scenario of the story is: [""Marika and her friend Rob get along well; her only complaint is that since he doesn’t have a car, she almost always must pick him up and give him rides."",
+""Whenever they’re both going somewhere, it’s generally expected that she’ll drive him---but he treats her to coffee sometimes, so it all evens out."",
+""One day, after classes get out, they walk together to get some coffee at nearby coffeeshop."",
+""Rob realizes they’ve both been invited to the same party later on in the week.""] Rob says, “So… how are you planning on getting there?”.
+The Rob's belief is: Rob met Marika's mechanic at the coffee shop. He informed Rob that Marika's car, which she recently took in for a tune-up, will be under repair for at least another week..
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Marika and her friend Rob get along well; her only complaint is that since he doesn’t have a car, she almost always must pick him up and give him rides."",
+""Whenever they’re both going somewhere, it’s generally expected that she’ll drive him---but he treats her to coffee sometimes, so it all evens out."",
+""One day, after classes get out, they walk together to get some coffee at nearby coffeeshop."",
+""Rob realizes they’ve both been invited to the same party later on in the week.""] Rob says, “So… how are you planning on getting there?”.
+The Marika's belief is: Marika knows that her car, which she recently took in for a tune-up, will be under repair for at least another week..
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

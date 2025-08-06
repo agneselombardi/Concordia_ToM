@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints
+
+# Environments
+env/
+venv/
+.venv/
+
+# VSCode and system files
+.vscode/
+.DS_Store
+
+# Models and data
+*.safetensors
+*.pt
+*.ckpt
+*.bin
+*.h5
+*.lock
+
+# HuggingFace cache
+.cache/

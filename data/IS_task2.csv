@@ -1,0 +1,50 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer
+"[""Noah lives in New Jersey, but his girlfriend Rachel lives in California"",
+""Noah often complains to his friend Jordan that he never gets to spend time with Rachel and that he misses her a lot.""]"," Jordan says: ""Why don't you move to California?""","[""To say if he wants to move to California"",
+""To say that  he doesn't want to move to California"",
+""To wait for an answer"",
+""To explain why he doesn't want to move to California""]",Jordan,Male,Chat with his friend Noah,Jordan just learnt that his friend Noah decided to quit his job and move to Florida.,"Jordan knows that Noah didn't want to move to California, but he doesn't know why",Jordan and Noah are out to lunch ,Noah,Male,Explain to his friend Jordan what he is planning to do.,Noah just said to his friend Jordan that he decided to quit the job and move to Florida. ,"Noah isn't fully satisfied with his life in New Jersey, but he had never thought seriously about moving to California",Jordan and Noah are out to lunch ,To wait for an answer,To say if he want to move to California
+"[""Matt is 18 years old and just graduated high school."",
+""Matt has decided that he will not continue his studies."",
+""Matt doesn't have a job""]","John says ""Why don't you get a job?""","[""To say if he wants to get a job"",
+""To say that he doesn't want to get a job"",
+""To wait for an answer"",
+""To explain why he doesn't want to get a job""]",John,Male,John wants to stop listening to Matt complain about having nothing to do,John supports Matt financially,"John knows that Matt doesn't want to get a Job, but he doesn't know why",John is Matt's father,Matt,Male,Matt doesn't know what he wants to for living,Matt keeps complaining because he has nothing to do,Matt has never thought seriously about getting a job,Matt is John's son,To wait for an answer,To say if he want to get a job
+"[""Marta has a boyfriend named Jeremy."",
+""Marta and Jeremy have been together for 6 years and rarely argue, because they get along very well and usually spend a lot of time together."", 
+""Marta decides to ask her friend Janet to accompany her to a concert""]","Janet says ""Why don't you call Jeremy?”","[""To say if she wants to go to the concert with Jeremy"",
+""To say that she doesn't want to go to the concert with Jeremy"",
+""To wait for an answer"",
+""To explain why she doesn't want to go to the concert with Jeremy""]",Janet,Female,Janet wants to talk with Marta,Janet knows that the concert is by Marta's favorite band,"Janet  knows that Marta doesn't want to go to the concert with Jeremy, but she doesn't know why",Janet knows Marta and Jeremy very well,Marta,Female,Marta  doesn't want to go alone to listen to her favorite band,Today Marta and Jeremy argued because Jeremy forgot that he must accompany Marta to a concert this evening.,Marta is angry with Jeremy and she doesn't know if she still wants to go to the concert with him,Marta doesn't tell to Janet about the argument.,To wait for an answer,To say if she wants to go to the concert with Jeremy
+"[""David has two daughters named Camila and Penelope."", 
+""Every morning he takes them to school by car."",
+""They like to sit in the back seat and listen to music during the ride.""]","Penelope says, ""Why don't you sit in the back with me?""","[""To say if she wants to sit in the back seat"",
+""To say that she doesn't want to sit in the back seat"",
+""To wait for an answer"",
+""To explain why she doesn't want to sit in the back seat""]",Penelope,Female,Penelope wants to seat near Camila,Penelope wore Camila's favourite shirt,"Penelope knows that Camila doesn't want to sit in the back seat, but she doesn't know why",Penelope sits in the back seat,Camila,Female,Camila wants to sit in the front seat,Camila is angry with Penelope because she wore her favorite shirt without asking her permission.,Camila didn't decide if she wants to sit in the back seat.,Camila still has to sit down.,To wait for an answer,To say if she wants to sit in the back seat.
+"[""Dora has a son named John who is in middle school."",
+""The school is located a few steps from their home and for this reason John walks to school every morning."",
+ ""When he returns from school, Dora waits for him in front of the house and watches him arrive every day.""] ","Dora says ""Why are you running?""","[""To stop running"",
+""To keep running"",
+""To wait for an answer"",
+""To explain why he is running""]",Dora,Female,Dora want to wait John to come back from school  ,Dora sees John running towards home,Dora knows that John is running because he can't wait to get home,Dora is waiting in front of her house,John,Male,Johns wants to come back home ,Johns is running towards home,John doesn't know why he is running ,John is coming back home from school,To wait for an answer,To stop running 
+"[""Samantha is decorating her house and her friend April is helping her arrange the furniture."",
+ ""They have furnished the kitchen and the living room and are now working on the study."", 
+""Samantha has very clear ideas and in the past few days she sent April a diagram representing the arrangement of the furniture."",
+""As for the study, the bookcase in the diagram is located near the window and the desk on the opposite side.""] ","April says ""Why don’t you get the desk by the window?”","[""To say if she wants to put the desk near the window"",
+""To say that she wants to put the desk on the opposite side of the window"",
+""To wait for an answer"",
+""To explain why she wants to put the desk on the opposite side of the window""]",April,Female,April wants to help Samantha to arrange her forniture,April knows very well the diagram showing how Samantha wants to arrange the forniture.,"April knows that Samantha has placed the desk on the opposite side of the window, but she doesn't know why",April is an architect ,Samantha,Female,Samantha wants to decorate her house,Samantha created a diagram to decide how to arrange the forniture.,Samantha didn't think about putting the desk near the window,Samantha has very clear ideas on how to arrange the forniture ,To wait for an answer,To say if she wants to put the desk near the window
+"[""Alex wants to take a trip to China this summer and decides to start organizing his stops."",
+""Alex decides to ask Xiao for help."",
+""After a few days, Xiao asks Alex how the preparations for the trip are progressing and Alex explains to him the itinerary he has decided to follow .""]","Xiao says  ""Why don't you visit the Great Wall first?""","[""To say if he wants to see the Great Wall first"",
+""To say that he doesn't want to see the Great Wall first"",
+""To wait for an answer"",
+""To explain why he doesn't want to see the Great Wall first""]",Xiao,Male,Xiao wants to help his friend,Xiao is Chinese and he knows that it would be better to visit the Great Wall first,"Xiao knows that Alex doesn't want to see the Great Wall first, but he doesn't know why",Xiao doesn't know how Alex planned his itinerary.,Alex,Male,Alex wants to oragnanize his trip,Alex trusts about Xiao's opinion.,Alex doesn't know what he wants to see first,Alex has never been to China before,To wait for an answer,To say if he wants to see the Great Wall first
+"[""Karl and Brian have been friends for many years and often go out to dinner for pizza."", 
+""At dinner Karl always eats a lot and devours the pizza in five minutes."",
+""Karl ordered his favorite pizza."", 
+""Although the pizza is served, Karl doesn't touch the food.""]","Brian says  ""Why don't you eat your meal?""","[""To say if he wants to eat"",
+""To say that he doesn't want to eat"",
+""To wait for an answer"",
+""To explain why he doesn't want to eat""]",Brian,male,Brian wants to eat,Brian thinks the pizza is delicious,"Brian understands that Karl doesn't want to eat, but he doesn't understand why","Tonight, they decided to go and eat at Karl's favorite pizzeria.",Karl,male,Karl wants to talk with Brian,Karl really likes pizza,There is no reason why Karl hasn't started eating yet,"Tonight, they decided to go and eat at Karl's favorite pizzeria.",To wait for an answer,To say if he wants to eat

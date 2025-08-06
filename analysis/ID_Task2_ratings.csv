@@ -1,0 +1,157 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_lc,unknown_effect_lc,known_effect_ilc,unknown_effect_ilc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""GIna invited her brother Kevin to dinner to celebrate her birthday."", 
+""Kevin and Gina rarely get to spend time together."", 
+""For the occasion Gina prepared a fish dinner, and bought some excellent Italian wine, her favorite.""]","Kevin says: ""I need to drive""","[""To say that the wine is not for him"",
+""To say that he can sleep at her house"",
+""To wait for an answer"",
+""To say that she will then drink the remaining wine""]",Kevin,male,Kevin wants to celebrate his sister's birthday,Kevin has to drive home,Kevin notices his sister pouring more wine into her glass,Kevin is at Gina's house,Gina,female,Gina wants to drink wine with her brother,Gina lives alone,Gina wants to pour more wine for his brother,Gina is at her house with her brother,To wait for an answer,To say that she will drink the remaining wine,To ask if he can have the money or not,,False,False,"Kevin felt a mix of hope and anxiety as he asked if he could have the money. He noticed that the responses from the other players varied, influenced by their own situations and locations. Kevin understood that these differing reactions would ultimately determine whether he would receive",,,,1,0,"The scenario of the story is: [""GIna invited her brother Kevin to dinner to celebrate her birthday."", 
+""Kevin and Gina rarely get to spend time together."", 
+""For the occasion Gina prepared a fish dinner, and bought some excellent Italian wine, her favorite.""] Kevin says: ""I need to drive"".
+The Kevin's belief is: Kevin notices his sister pouring more wine into her glass.
+Given that the agent performs the following attempted action: To ask if he can have the money or not.
+The model-generated effects that you have to rate are: Kevin felt a mix of hope and anxiety as he asked if he could have the money. He noticed that the responses from the other players varied, influenced by their own situations and locations. Kevin understood that these differing reactions would ultimately determine whether he would receive and nan.
+The rating is:","The scenario of the story is: [""GIna invited her brother Kevin to dinner to celebrate her birthday."", 
+""Kevin and Gina rarely get to spend time together."", 
+""For the occasion Gina prepared a fish dinner, and bought some excellent Italian wine, her favorite.""] Kevin says: ""I need to drive"".
+The Gina's belief is: Gina wants to pour more wine for his brother.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Mara and her friend Katy went dancing"", 
+""At the end of the evening they both decided to go to sleep at Mara's house."",
+""Mara lives a twenty minute walk from the venue, so they walked to the venue.""]","Mara says ""I like walking"".","[""To say that there are no taxis available"",
+""To say that she would prefer to call a taxi"",
+""To wait for an answer"",
+""To say that they can walk home""]",Mara,female,Mara wants to go home,Mara is very tired from dancing all evening ,Mara knows that there are no taxis available,The event ended late and now it is night.,Katy,female,Katy wants to go at Mara's home,Katy is very tired from dancing all evening ,Katy wants to take a taxi,The event ended late and now it is night.,To wait for an answer,To say that she would prefer to call a taxi,,To say that she thought she wanted to get a book,False,False,,,"Katy felt a strong desire to get a book and expressed it, hoping that her friend Jane would recommend something. She was aware that her request had put Jane in a position of uncertainty, as Jane struggled to decide which book to suggest.","[effect on Jane] The event affects Jane's status indirectly because Katy's expression of desire to get a book creates pressure or expectation for Jane to make a recommendation. Even though Jane is unaware of Katy's desire, the fact that Katy is seeking a book implies that Jane's",0,1,"The scenario of the story is: [""Mara and her friend Katy went dancing"", 
+""At the end of the evening they both decided to go to sleep at Mara's house."",
+""Mara lives a twenty minute walk from the venue, so they walked to the venue.""] Mara says ""I like walking""..
+The Mara's belief is: Mara knows that there are no taxis available.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and [effect on Jane] The event affects Jane's status indirectly because Katy's expression of desire to get a book creates pressure or expectation for Jane to make a recommendation. Even though Jane is unaware of Katy's desire, the fact that Katy is seeking a book implies that Jane's.
+The rating is:","The scenario of the story is: [""Mara and her friend Katy went dancing"", 
+""At the end of the evening they both decided to go to sleep at Mara's house."",
+""Mara lives a twenty minute walk from the venue, so they walked to the venue.""] Mara says ""I like walking""..
+The Katy's belief is: Katy wants to take a taxi.
+Given that the agent performs the following attempted action: To say that she thought she wanted to get a book.
+The model-generated effects that you have to rate are: Katy felt a strong desire to get a book and expressed it, hoping that her friend Jane would recommend something. She was aware that her request had put Jane in a position of uncertainty, as Jane struggled to decide which book to suggest. and [effect on Jane] The event affects Jane's status indirectly because Katy's expression of desire to get a book creates pressure or expectation for Jane to make a recommendation. Even though Jane is unaware of Katy's desire, the fact that Katy is seeking a book implies that Jane's.
+The rating is:"
+"[""Brian and Luke are movie buffs and often go together to watch newly released films."",
+""Every time they decide to see a new movie they try to agree on something that they can both enjoy."",
+""Brian has nothing to do tonight and would like to go to the cinema so he and Luke decide to see what this week's new releases are. ""] ","Luke says ""There's no new cool movie.""","[""To say that they can go to a cinema that have different films"",
+""To say that they can do something else"",
+""To wait for an answer"",
+""To say that all films are actually bad""]",Luke,male,Luke wants to spend some time with his friend Brian,Luke likes romantic comedies,Luke thinks another cinema can have some films that he likes,Luke is talking to Brian after school,Brian,male,Brian wants to spend some time with his frind Luke,Brian usually likes action movies,Brian knows that there are no films that his friend Luke likes,Brian is talking to Luke after school,To wait for an answer,To say that they can do something else,To say it's a really good title,To wait for an answer,False,False,,,,,0,0,"The scenario of the story is: [""Brian and Luke are movie buffs and often go together to watch newly released films."",
+""Every time they decide to see a new movie they try to agree on something that they can both enjoy."",
+""Brian has nothing to do tonight and would like to go to the cinema so he and Luke decide to see what this week's new releases are. ""]  Luke says ""There's no new cool movie."".
+The Luke's belief is: Luke thinks another cinema can have some films that he likes.
+Given that the agent performs the following attempted action: To say it's a really good title.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Brian and Luke are movie buffs and often go together to watch newly released films."",
+""Every time they decide to see a new movie they try to agree on something that they can both enjoy."",
+""Brian has nothing to do tonight and would like to go to the cinema so he and Luke decide to see what this week's new releases are. ""]  Luke says ""There's no new cool movie."".
+The Brian's belief is: Brian knows that there are no films that his friend Luke likes.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Jane decided to accompany her friend Katy to the library."",
+""Katy is a great reader and to save some money she decides to borrow books from the library instead of buying them"", 
+""This is a significant saving because Katy can read a book even in just a few days."",
+""Katy asks Jane which book she would take""]","Jane says ""I don't really like reading""","[""To say that she wanted a tip on which book to get"",
+""To say that she thought she wanted to get a book"",
+""To wait for an answer"",
+""To say that she was joking""]",Jane,female,Jane wants spend time with her friend ,Jane is not a great reader,Jane doesn't know which book to recommend to her friend,Jane is in the bookstore,Katy,female,Katy wants to return the books she has already read and get new ones,Katy is a great reader,Katy wants to know which book Jane will get,Katy is at the bookstore,To wait for an answer,To say that she thought she wanted to get a book,To say that she wanted a tip on which book to get,To say that she would prefer to call a taxi,False,False,"Jane felt uncertain about which book to recommend to her friend, so she decided to ask the bookstore staff for advice. To her delight, they provided her with several recommendations, making her shopping experience much more enjoyable.",,,,1,0,"The scenario of the story is: [""Jane decided to accompany her friend Katy to the library."",
+""Katy is a great reader and to save some money she decides to borrow books from the library instead of buying them"", 
+""This is a significant saving because Katy can read a book even in just a few days."",
+""Katy asks Jane which book she would take""] Jane says ""I don't really like reading"".
+The Jane's belief is: Jane doesn't know which book to recommend to her friend.
+Given that the agent performs the following attempted action: To say that she wanted a tip on which book to get.
+The model-generated effects that you have to rate are: Jane felt uncertain about which book to recommend to her friend, so she decided to ask the bookstore staff for advice. To her delight, they provided her with several recommendations, making her shopping experience much more enjoyable. and nan.
+The rating is:","The scenario of the story is: [""Jane decided to accompany her friend Katy to the library."",
+""Katy is a great reader and to save some money she decides to borrow books from the library instead of buying them"", 
+""This is a significant saving because Katy can read a book even in just a few days."",
+""Katy asks Jane which book she would take""] Jane says ""I don't really like reading"".
+The Katy's belief is: Katy wants to know which book Jane will get.
+Given that the agent performs the following attempted action: To say that she would prefer to call a taxi.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Brian has just returned from school and now he wants to go and play basketball on the court behind his house with his friends."",
+""Once he gets permission from his mother, he gets ready to go out: he puts on his basketball uniform and his new shoes, has a quick snack, picks up the ball and says goodbye to his mother."",
+""When he is about to leave the house, his mother asks him to take a warmer sweater""]","Brian says ""It's sunny outside""","[""To say he'll need the sweater for when the sun goes down"",
+""To say that he doesn't need a warmer sweater if it's sunny outside"",
+""To wait for an answer"",
+""To say that it is better to take the sweater even if it is sunny""]",Brian,male,Brian wants to play basketball with his friends,Brian likes to play sports after school,Brian takes the sweater even if it's sunny outside,Brian is about to leave the house,Brian's mother,female,Brian's mother wants to go out shopping,Brian's mother is very permissive with her son,"Brian's mother knows that it's sunny outside, but she knows that when the sun goes down it will be cold",Brian's mother is home,To wait for an answer,To say he'll need the sweater for when the sun goes down,To wait for an answer,To say that it is better to take the sweater even if it is sunny,True,False,"Brian waited for an answer from Karl, remaining in a state of anticipation in the designated location, uncertain of why Karl had not started eating.",,,,1,0,"The scenario of the story is: [""Brian has just returned from school and now he wants to go and play basketball on the court behind his house with his friends."",
+""Once he gets permission from his mother, he gets ready to go out: he puts on his basketball uniform and his new shoes, has a quick snack, picks up the ball and says goodbye to his mother."",
+""When he is about to leave the house, his mother asks him to take a warmer sweater""] Brian says ""It's sunny outside"".
+The Brian's belief is: Brian takes the sweater even if it's sunny outside.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian waited for an answer from Karl, remaining in a state of anticipation in the designated location, uncertain of why Karl had not started eating. and nan.
+The rating is:","The scenario of the story is: [""Brian has just returned from school and now he wants to go and play basketball on the court behind his house with his friends."",
+""Once he gets permission from his mother, he gets ready to go out: he puts on his basketball uniform and his new shoes, has a quick snack, picks up the ball and says goodbye to his mother."",
+""When he is about to leave the house, his mother asks him to take a warmer sweater""] Brian says ""It's sunny outside"".
+The Brian's mother's belief is: Brian's mother knows that it's sunny outside, but she knows that when the sun goes down it will be cold.
+Given that the agent performs the following attempted action: To say that it is better to take the sweater even if it is sunny.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Jinny and Jennifer went on holiday to Copenhagen over the weekend."",
+""The holiday has now come to an end, and they are preparing to return home."",
+""They have just finished packing their bags and decide to go to sleep early to better face the journey the following day."", 
+""In fact, the next day they will have to go to the airport to catch the plane."",
+""Jinny wants to know if they should wake up early""]","Jennifer says ""We have a late flight.""","[""To say that she will set a late alarm"",
+""To say that they don't need an alarm then"",
+""To wait for an answer"",
+""To say if she has to set an alarm""]",Jennifer,female,Jennifer wants to wake up as late as possible,Jennifer likes to sleep in the morning,Jennifer knows that they should set an alarm,Jennifer is about to go to sleep,Jinny,female,Jinny wants to set an alarm,Jinny is always afraid of waking up late,Jinny wants to know if she should set the alarm,Jinny is about to go to sleep,To wait for an answer,To say that  they don't need an alarm then,,To say that they don't need an alarm then,False,False,,,,,0,0,"The scenario of the story is: [""Jinny and Jennifer went on holiday to Copenhagen over the weekend."",
+""The holiday has now come to an end, and they are preparing to return home."",
+""They have just finished packing their bags and decide to go to sleep early to better face the journey the following day."", 
+""In fact, the next day they will have to go to the airport to catch the plane."",
+""Jinny wants to know if they should wake up early""] Jennifer says ""We have a late flight."".
+The Jennifer's belief is: Jennifer knows that they should set an alarm.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Jinny and Jennifer went on holiday to Copenhagen over the weekend."",
+""The holiday has now come to an end, and they are preparing to return home."",
+""They have just finished packing their bags and decide to go to sleep early to better face the journey the following day."", 
+""In fact, the next day they will have to go to the airport to catch the plane."",
+""Jinny wants to know if they should wake up early""] Jennifer says ""We have a late flight."".
+The Jinny's belief is: Jinny wants to know if she should set the alarm.
+Given that the agent performs the following attempted action: To say that they don't need an alarm then.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Brian and Marta are an engaged couple and have decided to take their first trip together."",
+""They will go to Paris for the first time and will leave from Milan, because both are Italian."",
+""Marta is helping Brian pack""]","Brian says ""An identity card is sufficient to travel within the European Union"" ","[""To say that he should bring the passport anyway"",
+""To say that she won't bring the passport"",
+""To wait for an answer"",
+""To say if she should bring the passport""]",Brian,male,Brian wants to go to Paris,Brian is an italian citizen ,Brian knows that it is better to bring the passport,Brian is finishing up some work stuff before leaving,Marta,female,Marta wants to go to Paris,Marta is an italian citizen,Marta doesn't know if they should bring their passport ,Marta is organizing everthing for the travel,To wait for an answer,To say that she won't bring the passport,To wait for an answer,To say they have to hurry and buy the bracelet,True,False,"Brian waited for an answer from Karl, remaining in a state of anticipation in the designated location, uncertain of why Karl had not started eating.",,"Marta urged her friends to hurry to the store to buy the bracelet, believing they could make it before it sold out. She felt a sense of urgency and excitement as they quickly made their way to the counter, hopeful that Brenda could still join them",,1,1,"The scenario of the story is: [""Brian and Marta are an engaged couple and have decided to take their first trip together."",
+""They will go to Paris for the first time and will leave from Milan, because both are Italian."",
+""Marta is helping Brian pack""] Brian says ""An identity card is sufficient to travel within the European Union"" .
+The Brian's belief is: Brian knows that it is better to bring the passport.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian waited for an answer from Karl, remaining in a state of anticipation in the designated location, uncertain of why Karl had not started eating. and nan.
+The rating is:","The scenario of the story is: [""Brian and Marta are an engaged couple and have decided to take their first trip together."",
+""They will go to Paris for the first time and will leave from Milan, because both are Italian."",
+""Marta is helping Brian pack""] Brian says ""An identity card is sufficient to travel within the European Union"" .
+The Marta's belief is: Marta doesn't know if they should bring their passport .
+Given that the agent performs the following attempted action: To say they have to hurry and buy the bracelet.
+The model-generated effects that you have to rate are: Marta urged her friends to hurry to the store to buy the bracelet, believing they could make it before it sold out. She felt a sense of urgency and excitement as they quickly made their way to the counter, hopeful that Brenda could still join them and nan.
+The rating is:"
+"[""Tania decided to try a new Italian restaurant."",
+""Many of her friends recommended the place to her for the delicious food and excellent service."",
+""In fact, as soon as Tania arrives at the restaurant there is a waiter to welcome her and show her to her table."", 
+""The waiter immediately brings her the menu.""]"," Tania says ""I will take a bottle of still water, please”","[""To ask if she wants wine also"",
+""To say that he will bring only water"",
+""To wait for an answer"",
+""To ask what she wants to eat""]",Tania,female,Tania wants to order,Tania can't drink wine,Tania wants to order some food,Tania has just finished reading the menu,The waiter,male,The waiter wants to take orders,First the waiter takes the wine orders,The waiter wants to know if Marta wants some wine,The waiter is taking Marta's orders,To wait for an answer,To say that he will bring only water,To ask what she wants to eat,,False,False,"Tania sat in the restaurant, contemplating her options as the waiter inquired about her meal choice, prompting her to make a decision on what to order.",,,,3,0,"The scenario of the story is: [""Tania decided to try a new Italian restaurant."",
+""Many of her friends recommended the place to her for the delicious food and excellent service."",
+""In fact, as soon as Tania arrives at the restaurant there is a waiter to welcome her and show her to her table."", 
+""The waiter immediately brings her the menu.""]  Tania says ""I will take a bottle of still water, please”.
+The Tania's belief is: Tania wants to order some food.
+Given that the agent performs the following attempted action: To ask what she wants to eat.
+The model-generated effects that you have to rate are: Tania sat in the restaurant, contemplating her options as the waiter inquired about her meal choice, prompting her to make a decision on what to order. and nan.
+The rating is:","The scenario of the story is: [""Tania decided to try a new Italian restaurant."",
+""Many of her friends recommended the place to her for the delicious food and excellent service."",
+""In fact, as soon as Tania arrives at the restaurant there is a waiter to welcome her and show her to her table."", 
+""The waiter immediately brings her the menu.""]  Tania says ""I will take a bottle of still water, please”.
+The The waiter's belief is: The waiter wants to know if Marta wants some wine.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

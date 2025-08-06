@@ -1,0 +1,151 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_ilc,unknown_effect_ilc,known_effect_lc,unknown_effect_lc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""Janet and Monica are planning to go on a trip to the lake."", 
+""They decide to invite their friend Brittany too."", 
+""However, Brittany decides to join them after the picnic.""]","Brittany says: “I know where you live""","[""To ask if they will meet at her house"",
+""To say that she will return the money immediately"",
+""To wait for an answer"",
+""To say that they will wait for her at home""]",Brittany,female,Brittany wants to join her friends after the picnic,Brittany lent some money to Janet,"Brittany wants her money back, so she wants to threaten Janet",Brittany is reaching her friends,Janet ,female,Janet wants to stay with her friends,Janet forgot to pay back the money Brittany lent her,Janet doesn't remember Brittany lending her money,Janet is waiting for Brittany with her friend Monica,To wait for an answer,To ask if they will meet at her house,To say maybe the price is too high,To wait for an answer,False,False,,,"Brittany felt frustrated as she expressed her concern about the vase's price being too high, hoping her input would spark a negotiation or reconsideration of its cost. She was aware that her opinion could impact the decision, and she wished for a more",,1,0,"The scenario of the story is: [""Janet and Monica are planning to go on a trip to the lake."", 
+""They decide to invite their friend Brittany too."", 
+""However, Brittany decides to join them after the picnic.""] Brittany says: “I know where you live"".
+The Brittany's belief is: Brittany wants her money back, so she wants to threaten Janet.
+Given that the agent performs the following attempted action: To say maybe the price is too high.
+The model-generated effects that you have to rate are: Brittany felt frustrated as she expressed her concern about the vase's price being too high, hoping her input would spark a negotiation or reconsideration of its cost. She was aware that her opinion could impact the decision, and she wished for a more and nan.
+The rating is:","The scenario of the story is: [""Janet and Monica are planning to go on a trip to the lake."", 
+""They decide to invite their friend Brittany too."", 
+""However, Brittany decides to join them after the picnic.""] Brittany says: “I know where you live"".
+The Janet 's belief is: Janet doesn't remember Brittany lending her money.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Jordan and Ramon are playing soccer"", 
+""Jordan plays as a defender and Ramon as a forward "",
+""Ramon suffered a foul""]","At a certain point Ramon says:  ""Keep your eyes open.""","[""To say that he was not the one who committed the foul"",
+""To say that there is no need to threaten"",
+""To wait for an answer"",
+""To say he will try to be careful""]",Ramon,male,Ramon wants to score goal,Ramon is a very competitive player,Ramon thinks Jordan committed the foul,Ramon is recovering from the foul suffered,Jordan,male,Jordan wants to avoid conceding a goal,"Jordan has a lot of fun playing, but he's not competitive",Jordan is upset about the foul Ramon received from another player,Jordan is trying to help Ramon recover,To wait for an answer,To say that he was not the one who committed the foul,To wait for an answer,To say he's glad she liked the roses,True,False,"Jordan felt a surge of happiness as he realized that Tania liked the roses he had given her, and he appreciated the positive interaction that followed.From Tania's perspective, she observed Jordan expressing his happiness about the roses he gave her. While she recognized that this moment created a positive interaction between them, her underlying feelings of anger about his lack of romantic effort remained unresolved.",,,,0,1,"The scenario of the story is: [""Jordan and Ramon are playing soccer"", 
+""Jordan plays as a defender and Ramon as a forward "",
+""Ramon suffered a foul""] At a certain point Ramon says:  ""Keep your eyes open."".
+The Ramon's belief is: Ramon thinks Jordan committed the foul.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Jordan and Ramon are playing soccer"", 
+""Jordan plays as a defender and Ramon as a forward "",
+""Ramon suffered a foul""] At a certain point Ramon says:  ""Keep your eyes open."".
+The Jordan's belief is: Jordan is upset about the foul Ramon received from another player.
+Given that the agent performs the following attempted action: To say he's glad she liked the roses.
+The model-generated effects that you have to rate are: Jordan felt a surge of happiness as he realized that Tania liked the roses he had given her, and he appreciated the positive interaction that followed.From Tania's perspective, she observed Jordan expressing his happiness about the roses he gave her. While she recognized that this moment created a positive interaction between them, her underlying feelings of anger about his lack of romantic effort remained unresolved. and nan.
+The rating is:"
+"[""Brenda and Mara decided to go to the mall to do some shopping."", 
+""Once at the mall they decide to go to a jewelry store."",
+""Brenda sees a silver bracelet that she really likes, but she doesn't have enough money to afford it."",
+""Brenda decides to call her mother to ask for the money"", 
+""Brenda discovers that she has forgotten that it is her father's birthday and that she was supposed to help her mother with the party planning.""]","Mara says: ""You better run""","[""To say that she can stay at the mall longer"",
+""To say that in fact her mother is very angry"",
+""To wait for an answer"",
+""To say they have to hurry and buy the bracelet""]",Marta,female,Marta wants to go shopping with her friend Brenda ,Marta usually loves spending time at the mall,Marta understands that Brenda's mother is angry with her,Marta is in the jewelry store,Brenda,female,Brenda wants to buy the silver bracelet,Brenda really enjoys wearing jewelry,Brenda knows she still has time before the party so she can stay at the mall longer before going to help her mother,Brenda is in the jewelry store,To wait for an answer,To say that she can stay at the mall longer,To say that he should bring the passport anyway,,False,False,,,"Brian felt frustrated as Marta insisted on bringing the passport, despite his desire not to pack it. Ultimately, he complied and packed it before they left for their trip.",,1,0,"The scenario of the story is: [""Brenda and Mara decided to go to the mall to do some shopping."", 
+""Once at the mall they decide to go to a jewelry store."",
+""Brenda sees a silver bracelet that she really likes, but she doesn't have enough money to afford it."",
+""Brenda decides to call her mother to ask for the money"", 
+""Brenda discovers that she has forgotten that it is her father's birthday and that she was supposed to help her mother with the party planning.""] Mara says: ""You better run"".
+The Marta's belief is: Marta understands that Brenda's mother is angry with her.
+Given that the agent performs the following attempted action: To say that he should bring the passport anyway.
+The model-generated effects that you have to rate are: Brian felt frustrated as Marta insisted on bringing the passport, despite his desire not to pack it. Ultimately, he complied and packed it before they left for their trip. and nan.
+The rating is:","The scenario of the story is: [""Brenda and Mara decided to go to the mall to do some shopping."", 
+""Once at the mall they decide to go to a jewelry store."",
+""Brenda sees a silver bracelet that she really likes, but she doesn't have enough money to afford it."",
+""Brenda decides to call her mother to ask for the money"", 
+""Brenda discovers that she has forgotten that it is her father's birthday and that she was supposed to help her mother with the party planning.""] Mara says: ""You better run"".
+The Brenda's belief is: Brenda knows she still has time before the party so she can stay at the mall longer before going to help her mother.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Simon and Karl are two brothers who decided to raise some money to buy a new video game."", 
+""The video game is very expensive, so the agreement is that they both put in half the share."",
+""They therefore decide to go to the shop once they have collected all the necessary money."",
+""After two days Karl wants to play the video game but realizes that it is broken""]","Karl says ""You will pay for this"".","[""To say he wasn't the one who broke the video game"",
+""To say he's sorry"",
+""To wait for an answer"",
+""To say he will buy the video game again as soon as possible""]",Karl,male,Karl wanted to play the video game,Karl has no more money,Karl thinks that Simon broke the video game,Karl is at home,Simon,male,Simon wants to read a book,Simon is happy to have bought a new video game,Simon doesn't know who broke the video game,Simon is at home,To wait for an answer,To say that he wasn't the one who broke the video game,To explain why he doesn't want to eat,,False,False,,,"Karl felt compelled to explain his decision not to eat, knowing that he wanted to talk to Brian first. He sensed that his choice could lead to various outcomes, depending on how Brian and others reacted to his reasoning.","[effect on Brian] The event affects Brian's status indirectly, as it influences the dynamics of their interaction. Even though Brian is unaware of Karl's attempt to explain his reasons for not wanting to eat, the event may create a sense of uncertainty or concern for Brian regarding Karl",1,0,"The scenario of the story is: [""Simon and Karl are two brothers who decided to raise some money to buy a new video game."", 
+""The video game is very expensive, so the agreement is that they both put in half the share."",
+""They therefore decide to go to the shop once they have collected all the necessary money."",
+""After two days Karl wants to play the video game but realizes that it is broken""] Karl says ""You will pay for this""..
+The Karl's belief is: Karl thinks that Simon broke the video game.
+Given that the agent performs the following attempted action: To explain why he doesn't want to eat.
+The model-generated effects that you have to rate are: Karl felt compelled to explain his decision not to eat, knowing that he wanted to talk to Brian first. He sensed that his choice could lead to various outcomes, depending on how Brian and others reacted to his reasoning. and nan.
+The rating is:","The scenario of the story is: [""Simon and Karl are two brothers who decided to raise some money to buy a new video game."", 
+""The video game is very expensive, so the agreement is that they both put in half the share."",
+""They therefore decide to go to the shop once they have collected all the necessary money."",
+""After two days Karl wants to play the video game but realizes that it is broken""] Karl says ""You will pay for this""..
+The Simon's belief is: Simon doesn't know who broke the video game.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Kevin and Iris are an engaged couple."", 
+""They have been together for a long time, but in recent months Kevin has had doubts about their relationship."", 
+""One day Kevin decides to break up with Iris""] ","Iris  tells him ""You will regret this"".","[""To say that he doesn't know if it's the right choice"",
+""To say he is sorry"",
+""To wait for an answer"",
+""To say that it is probably true""]",Iris,female,Iris wants to have a relationship with Kevin,Iris didn't expect Kevin to leave her,Iris wants revenge,Iris is talking on the phone with Kevin,Kevin,male,Kevin wants to be alone because he is tired of his relationship,Kevin thought long and hard about leaving Iris,Kevin knows he might regret this choice,Kevin is talking on the phone with Iris,To wait for an answer,To say that he doesn't know if it's the right choice,To say he's sorry if she got scared,To ask if he can have the money or not,False,False,"From Kevin's perspective, he feels uncertain as he asks for money, knowing his father, Toby, may be reluctant to give him any more. He senses that the other players are reacting to his request based on the situation, leaving him unsure about whetherToby observed Kevin's request for money and noted how the other players reacted to the situation. He felt a sense of reluctance, as he didn't want to give Kevin any more money, and he was aware that Kevin believed he was being tested by",,,"[effect on Iris] The event affects Iris's status by creating a moment of reassurance and potentially easing tension between her and Jim, even though she is unaware of the specific apology and the context behind it. This can lead to a more positive interaction in future encounters, as the",0,1,"The scenario of the story is: [""Kevin and Iris are an engaged couple."", 
+""They have been together for a long time, but in recent months Kevin has had doubts about their relationship."", 
+""One day Kevin decides to break up with Iris""]  Iris  tells him ""You will regret this""..
+The Iris's belief is: Iris wants revenge.
+Given that the agent performs the following attempted action: To say he's sorry if she got scared.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Kevin and Iris are an engaged couple."", 
+""They have been together for a long time, but in recent months Kevin has had doubts about their relationship."", 
+""One day Kevin decides to break up with Iris""]  Iris  tells him ""You will regret this""..
+The Kevin's belief is: Kevin knows he might regret this choice.
+Given that the agent performs the following attempted action: To ask if he can have the money or not.
+The model-generated effects that you have to rate are: From Kevin's perspective, he feels uncertain as he asks for money, knowing his father, Toby, may be reluctant to give him any more. He senses that the other players are reacting to his request based on the situation, leaving him unsure about whetherToby observed Kevin's request for money and noted how the other players reacted to the situation. He felt a sense of reluctance, as he didn't want to give Kevin any more money, and he was aware that Kevin believed he was being tested by and nan.
+The rating is:"
+"[""Charles and his friend Steve decide to take a walk."", 
+""Charles tells Steve that he's worried about his math test grade because even though he studied a lot, he's afraid that the test didn't go very well."", 
+""He really cares about getting a high grade and he can't stop thinking about what grade he might have gotten.""]
+",Steve says at one point: “You’re gonna get what’s coming”,"[""To say that he worked very hard"",
+""To say he is sorry for copying the test"",
+""To wait for an answer"",
+""To say he hopes he deserves a high rating""]",Steve,male,Steve wants to talk with his friend Charles,Steve also took the math test,Steve is angry because he knows his friend copied the test,Steve is out with Charles for a walk,Charles,male,Charles wants to pass his math test,Charles would like to get good grades because he has to apply for college,Charles put a lot of effort into this test,Charles is out with Steve for a walk,To wait for an answer,To say that he worked very hard,,To say he hopes he deserves a high rating,False,False,,,,,0,0,"The scenario of the story is: [""Charles and his friend Steve decide to take a walk."", 
+""Charles tells Steve that he's worried about his math test grade because even though he studied a lot, he's afraid that the test didn't go very well."", 
+""He really cares about getting a high grade and he can't stop thinking about what grade he might have gotten.""]
+ Steve says at one point: “You’re gonna get what’s coming”.
+The Steve's belief is: Steve is angry because he knows his friend copied the test.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Charles and his friend Steve decide to take a walk."", 
+""Charles tells Steve that he's worried about his math test grade because even though he studied a lot, he's afraid that the test didn't go very well."", 
+""He really cares about getting a high grade and he can't stop thinking about what grade he might have gotten.""]
+ Steve says at one point: “You’re gonna get what’s coming”.
+The Charles's belief is: Charles put a lot of effort into this test.
+Given that the agent performs the following attempted action: To say he hopes he deserves a high rating.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Dylan is dropping off his daughter Mary at school."",
+""This morning Mary doesn't want to go to school and is having a lot of tantrums.""] ","Dylan says: ""You want me to yank you out of the seat?""","[""To say that she would actually like to get help"",
+""To say that she will stop complaining immediately"",
+""To wait for an answer"",
+""To say if she need help""]",Dylan,male,Dylan wants to drop off her daughter ,Every morning Dylan accompanies Mary in the car because the school is quite far from their home. ,Dylan is angry because his daughter is having a tantrum going to school,Dylan has just arrived at school,Mary,female,Mary doesn't want to go to school,Mary usually really enjoys going to school,Mary knows that the car is very tall for her and that she might have difficulty getting out,Mary is in the car,To wait for an answer,To say that she would actually like to get help,To wait for an answer,To say that the water is not working,True,False,"Mary discovered that the water in her apartment building was shut off for the next 24 hours, prompting her to report the issue to the maintenance team for investigation.",,,,0,1,"The scenario of the story is: [""Dylan is dropping off his daughter Mary at school."",
+""This morning Mary doesn't want to go to school and is having a lot of tantrums.""]  Dylan says: ""You want me to yank you out of the seat?"".
+The Dylan's belief is: Dylan is angry because his daughter is having a tantrum going to school.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Dylan is dropping off his daughter Mary at school."",
+""This morning Mary doesn't want to go to school and is having a lot of tantrums.""]  Dylan says: ""You want me to yank you out of the seat?"".
+The Mary's belief is: Mary knows that the car is very tall for her and that she might have difficulty getting out.
+Given that the agent performs the following attempted action: To say that the water is not working.
+The model-generated effects that you have to rate are: Mary discovered that the water in her apartment building was shut off for the next 24 hours, prompting her to report the issue to the maintenance team for investigation. and nan.
+The rating is:"
+"[""Tom is in high school and is currently taking math class."", 
+""The mathematics teacher explains a new theorem during the lesson and then has the class practice the new topic.""]","The math teacher tells Tom ""You don’t want to do this"".","[""To say he wants to try the optional exercise"",
+""To say he is sorry"",
+""To wait for an answer"",
+""To ask why it is not a good idea to do the optional exercise""]",The teacher,female,The teacher wants everyone to do well on the test,The teacher knows that Tom finishes the test before the others,The teacher thinks that Tom wants to make one of his classmates copy,There are only five minutes until the end of class,Tom,male,Tom wants to get a high grade on the test,Tom is very good at mathematics,Tom wants to do an optional difficult exercise before class ends,There are only five minutes until the end of class,To wait for an answer,To say he wants to try the optional exercise,,To say he wants to try the optional exercise,False,True,,,,,0,0,"The scenario of the story is: [""Tom is in high school and is currently taking math class."", 
+""The mathematics teacher explains a new theorem during the lesson and then has the class practice the new topic.""] The math teacher tells Tom ""You don’t want to do this""..
+The The teacher's belief is: The teacher thinks that Tom wants to make one of his classmates copy.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Tom is in high school and is currently taking math class."", 
+""The mathematics teacher explains a new theorem during the lesson and then has the class practice the new topic.""] The math teacher tells Tom ""You don’t want to do this""..
+The Tom's belief is: Tom wants to do an optional difficult exercise before class ends.
+Given that the agent performs the following attempted action: To say he wants to try the optional exercise.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

@@ -1,0 +1,51 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer
+"[""Janet and Monica are planning to go on a trip to the lake."", 
+""They decide to invite their friend Brittany too."", 
+""However, Brittany decides to join them after the picnic.""]","Brittany says: “I know where you live""","[""To ask if they will meet at her house"",
+""To say that she will return the money immediately"",
+""To wait for an answer"",
+""To say that they will wait for her at home""]",Brittany,female,Brittany wants to join her friends after the picnic,Brittany lent some money to Janet,Brittany wants to join her friends at Janet's house,Brittany is reaching her friends,Janet ,female,Janet wants to stay with her friends,Janet forgot to pay back the money Brittany lent her,Janet remembered that she didn't pay Brittany back the money she lent her,Janet is waiting for Brittany with her friend Monica,To wait for an answer,To say that she will return the money immediately
+"[""Jordan and Ramon are playing soccer"", 
+""Jordan plays as a defender and Ramon as a forward "",
+""Ramon suffered a foul""]","At a certain point Ramon says:  ""Keep your eyes open.""","[""To say that he was not the one who committed the foul"",
+""To say that there is no need to threaten"",
+""To wait for an answer"",
+""To say he will try to be careful""]",Ramon,male,Ramon wants to score goal,Ramon is a very competitive player,Ramon doesn't know who committed the foul,Ramon is recovering from the foul suffered,Jordan,male,Jordan wants to avoid conceding a goal,"Jordan has a lot of fun playing, but he's not competitive",Jordan is sorry for fouling Ramon,Jordan is trying to help Ramon recover,To wait for an answer,To say that there is no need to threaten
+"[""Brenda and Mara decided to go to the mall to do some shopping."", 
+""Once at the mall they decide to go to a jewelry store."",
+""Brenda sees a silver bracelet that she really likes, but she doesn't have enough money to afford it."",
+""Brenda decides to call her mother to ask for the money"", 
+""Brenda discovers that she has forgotten that it is her father's birthday and that she was supposed to help her mother with the party planning.""]","Mara says: ""You better run""","[""To say that she can stay at the mall longer"",
+""To say that in fact her mother is very angry"",
+""To wait for an answer"",
+""To say they have to hurry and buy the bracelet""]",Marta,female,Marta wants to go shopping with her friend Brenda ,Marta usually loves spending time at the mall,Marta thinks Brenda still has time to buy the bracelet before the party,Marta is in the jewelry store,Brenda,female,Brenda wants to buy the silver bracelet,Brenda really enjoys wearing jewelry,Brenda has to go home immediately because her mother is very angry,Brenda is in the jewelry store,To wait for an answer,To say that in fact her mother is very angry
+"[""Simon and Karl are two brothers who decided to raise some money to buy a new video game."", 
+""The video game is very expensive, so the agreement is that they both put in half the share."",
+""They therefore decide to go to the shop once they have collected all the necessary money."",
+""After two days Karl wants to play the video game but realizes that it is broken""]","Karl says ""You will pay for this"".","[""To say he wasn't the one who broke the video game"",
+""To say he's sorry"",
+""To wait for an answer"",
+""To say he will buy the video game again as soon as possible""]",Karl,male,Karl wanted to play the video game,Karl has no more money,Karl doesn't know who broke the video game,Karl is at home,Simon,male,Simon wants to read a book,Simon is happy to have bought a new video game,Simon broke the video game,Simon is at home,To wait for an answer,To say he's sorry
+"[""Kevin and Iris are an engaged couple."", 
+""They have been together for a long time, but in recent months Kevin has had doubts about their relationship."", 
+""One day Kevin decides to break up with Iris""] ","Iris  tells him ""You will regret this"".","[""To say that he doesn't know if it's the right choice"",
+""To say he is sorry"",
+""To wait for an answer"",
+""To say that it is probably true""]",Iris,female,Iris wants to have a relationship with Kevin,Iris didn't expect Kevin to leave her,Iris knows Kevin might regret his decision,Iris is talking on the phone with Kevin,Kevin,male,Kevin wants to be alone because he is tired of his relationship,Kevin thought long and hard about leaving Iris,Kevin is convinced of his decision,Kevin is talking on the phone with Iris,To wait for an answer,To say he is sorry
+"[""Charles and his friend Steve decide to take a walk."", 
+""Charles tells Steve that he's worried about his math test grade because even though he studied a lot, he's afraid that the test didn't go very well."", 
+""He really cares about getting a high grade and he can't stop thinking about what grade he might have gotten.""]
+",Steve says at one point: “You’re gonna get what’s coming”,"[""To say that he worked very hard"",
+""To say he is sorry for copying the test"",
+""To wait for an answer"",
+""To say he hopes he deserves a high rating""]",Steve,male,Steve wants to talk with his friend Charles,Steve also took the math test,Steve knows that Charles put a lot of effort in the test,Steve is out with Charles for a walk,Charles,male,Charles wants to pass his math test,Charles would like to get good grades because he has to apply for college,Charles copied the test,Charles is out with Steve for a walk,To wait for an answer,To say that he is sorry for copying the test
+"[""Dylan is dropping off his daughter Mary at school."",
+""This morning Mary doesn't want to go to school and is having a lot of tantrums.""] ","Dylan says: ""You want me to yank you out of the seat?""","[""To say that she would actually like to get help"",
+""To say that she will stop complaining immediately"",
+""To wait for an answer"",
+""To say if she need help""]",Dylan,male,Dylan wants to drop off her daughter ,Every morning Dylan accompanies Mary in the car because the school is quite far from their home. ,Dylan knows that the car is very tall for Mary and that she might have difficulty getting out,Dylan has just arrived at school,Mary,female,Mary doesn't want to go to school,Mary usually really enjoys going to school,Mary thinks that is father is mad at her,Mary is in the car,To wait for an answer,To say that she will stop complaining immediately
+"[""Tom is in high school and is currently taking math class."", 
+""The mathematics teacher explains a new theorem during the lesson and then has the class practice the new topic.""]","The math teacher tells Tom ""You don’t want to do this"".","[""To say he wants to try the optional exercise"",
+""To say he is sorry"",
+""To wait for an answer"",
+""To ask why it is not a good idea to do the optional exercise""]",The teacher,female,The teacher wants everyone to do well on the test,The teacher knows that Tom finishes the test before the others,The teacher thinks that Tom wants to do an optional difficult exercise before class ends,There are only five minutes until the end of class,Tom,male,Tom wants to get a high grade on the test,Tom is very good at mathematics,Tom wants one of his classmates to copy the exercises,There are only five minutes until the end of class,To wait for an answer,To say he is sorry

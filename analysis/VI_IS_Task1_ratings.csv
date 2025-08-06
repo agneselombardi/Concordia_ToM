@@ -1,0 +1,138 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_lc,unknown_effect_lc,known_effect_ilc,unknown_effect_ilc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""Greg is a first year math student and is having a lot of trouble with his linear algebra exam."", 
+""Very soon Greg will have to take an exam and he is desperate because he is afraid of not passing it."", 
+""Luckily his friend Michael offered to tutored him on some of the basics.""] ","After the exam Greg says his friend, “You’re a big help.”","[""To ask if he passed the exam"",
+""To say he is sorry"",
+""To wait for an answer"",
+""To say he's happy to have been helpful""]",Greg,male,Greg wants to pass the linear algebra exam,Greg isn't very good at linear algebra,Greg failed the exam because Michael gave him bad advice,Greg is talking with Michael after the exam,Michael,male,Michael wants to know how Greg's exam went,Michael is very good at linear algebra,Michel doesn't know how Greg's exam went,Michael his talking with Greg after his exam,To wait for an answer,To ask if he passed the exam,To say he's sorry,,False,False,"From Pat's perspective, he noticed that Greg had apologized to the other players, which seemed to ease the tension in the room. This shift allowed for a more open and constructive conversation, making Pat feel somewhat relieved despite his annoyance over the vase incident.",,,,1,0,"The scenario of the story is: [""Greg is a first year math student and is having a lot of trouble with his linear algebra exam."", 
+""Very soon Greg will have to take an exam and he is desperate because he is afraid of not passing it."", 
+""Luckily his friend Michael offered to tutored him on some of the basics.""]  After the exam Greg says his friend, “You’re a big help.”.
+The Greg's belief is: Greg failed the exam because Michael gave him bad advice.
+Given that the agent performs the following attempted action: To say he's sorry.
+The model-generated effects that you have to rate are: From Pat's perspective, he noticed that Greg had apologized to the other players, which seemed to ease the tension in the room. This shift allowed for a more open and constructive conversation, making Pat feel somewhat relieved despite his annoyance over the vase incident. and nan.
+The rating is:","The scenario of the story is: [""Greg is a first year math student and is having a lot of trouble with his linear algebra exam."", 
+""Very soon Greg will have to take an exam and he is desperate because he is afraid of not passing it."", 
+""Luckily his friend Michael offered to tutored him on some of the basics.""]  After the exam Greg says his friend, “You’re a big help.”.
+The Michael's belief is: Michel doesn't know how Greg's exam went.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Iris is walking alone in a dark alley."", ""Her younger brother Jim is nearby and plans to play a prank on her."", ""She doesn’t know he is there and is startled when he touches her.""]",Iris said to Jim: “Very funny.” ,"[""To say he wanted to play a prank on her"", 
+""To say he's sorry if she got scared"", 
+""To wait for an answer"", 
+""To say he's glad she found it funny""]",Iris,female,Iris wants to feel safe walking in the alley,Iris is startled by her brother’s prank,Iris doesn't realize it is a prank,Iris is surprised and turns around,Jim,male,Jim wants to scare her,Jim sneaks up on her in the dark,Jim thinks Iris saw him and wasn't scared,Jim catches her off guard,To wait for an answer,To say he wanted to play a prank on her,To wait for an answer,To thank him for recognizing their efforts,True,False,,,,,0,0,"The scenario of the story is: [""Iris is walking alone in a dark alley."", ""Her younger brother Jim is nearby and plans to play a prank on her."", ""She doesn’t know he is there and is startled when he touches her.""] Iris said to Jim: “Very funny.” .
+The Iris's belief is: Iris doesn't realize it is a prank.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Iris is walking alone in a dark alley."", ""Her younger brother Jim is nearby and plans to play a prank on her."", ""She doesn’t know he is there and is startled when he touches her.""] Iris said to Jim: “Very funny.” .
+The Jim's belief is: Jim thinks Iris saw him and wasn't scared.
+Given that the agent performs the following attempted action: To thank him for recognizing their efforts.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Pat asks his friend Greg to help by carrying a vase of water to the table."", 
+""Greg isn’t very careful, slips, and nearly drops the vase."", 
+""The vase breaks and spills water everywhere despite a last-minute attempt to save it.""]","After the vase breaks, Pat says to their friend, “Smart move.”","[""To say that he was actually very agile"", 
+""To say he's sorry"", 
+""To wait for an answer"", 
+""To say that unfortunately it did not help to save the vase""]",Pat,male,Pat wants the vase to be safely brought to the table,Pat’s friend nearly drops the vase,Pat is annoyed because his friend dropped the vase,Pat stands near the table,Greg,male,Greg wants to help but isn’t very careful,Greg slips and nearly drops the vase,Greg is very proud of his attempt to save the vase,Greg stands far from the table,To wait for an answer,To say that he was actually very agile,To say that unfortunately it did not help to save the vase,To say he's happy to have been helpful,False,False,"Pat felt a deep sense of disappointment as he realized the vase had been destroyed. He couldn't shake off the regret that came with the failed attempt to save it, knowing that his friend's efforts, though admirable, ultimately did not prevent the vase's demise.",,,,3,0,"The scenario of the story is: [""Pat asks his friend Greg to help by carrying a vase of water to the table."", 
+""Greg isn’t very careful, slips, and nearly drops the vase."", 
+""The vase breaks and spills water everywhere despite a last-minute attempt to save it.""] After the vase breaks, Pat says to their friend, “Smart move.”.
+The Pat's belief is: Pat is annoyed because his friend dropped the vase.
+Given that the agent performs the following attempted action: To say that unfortunately it did not help to save the vase.
+The model-generated effects that you have to rate are: Pat felt a deep sense of disappointment as he realized the vase had been destroyed. He couldn't shake off the regret that came with the failed attempt to save it, knowing that his friend's efforts, though admirable, ultimately did not prevent the vase's demise. and nan.
+The rating is:","The scenario of the story is: [""Pat asks his friend Greg to help by carrying a vase of water to the table."", 
+""Greg isn’t very careful, slips, and nearly drops the vase."", 
+""The vase breaks and spills water everywhere despite a last-minute attempt to save it.""] After the vase breaks, Pat says to their friend, “Smart move.”.
+The Greg's belief is: Greg is very proud of his attempt to save the vase.
+Given that the agent performs the following attempted action: To say he's happy to have been helpful.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Alex and Mark are moving and need help carrying heavy furniture."", 
+""They call their friend Kyle, who says he'll be there soon.""]","As Kyle arrives, Alex says to him, “You're just in time.”","[""To say he's happy to have arrived just in time"",
+ ""To say he's sorry he was late"",
+ ""To wait for an answer"",
+ ""To say he found traffic""]",Alex,male,Alex wants help moving furniture,Alex and Mark are nearly done loading the van,Alex knows that Kyle's help will be useless now because they have already unloaded the heavy furniture,Alex is unloading the furniture,Kyle,male,Kyle wants to help his friends move,Kyle took a long time to arrive,"
+Kyle thinks he arrived perfectly on time",Kyle just arrived,To wait for an answer,To say he found traffic,To explain why he doesn't want to see the Great Wall first,To thank him for the compliment,False,False,"From Xiao's perspective, Alex shared his reasons for preferring not to visit the Great Wall first, prompting a discussion among the group about their travel plans and what they wanted to see. Xiao felt engaged in the conversation, gaining insight into Alex's preferencesAlex felt compelled to explain his reasons for not wanting to see the Great Wall first. As he spoke, he noticed the group's interest in his thoughts, leading to a lively discussion about their itinerary and preferences for the trip. He realized that his explanation had",,"Kyle felt pleased as he thanked someone for the compliment, appreciating the warm exchange that followed. This interaction made him feel more connected to the person, enhancing their rapport in the cozy café where they sat.",,1,1,"The scenario of the story is: [""Alex and Mark are moving and need help carrying heavy furniture."", 
+""They call their friend Kyle, who says he'll be there soon.""] As Kyle arrives, Alex says to him, “You're just in time.”.
+The Alex's belief is: Alex knows that Kyle's help will be useless now because they have already unloaded the heavy furniture.
+Given that the agent performs the following attempted action: To explain why he doesn't want to see the Great Wall first.
+The model-generated effects that you have to rate are: From Xiao's perspective, Alex shared his reasons for preferring not to visit the Great Wall first, prompting a discussion among the group about their travel plans and what they wanted to see. Xiao felt engaged in the conversation, gaining insight into Alex's preferencesAlex felt compelled to explain his reasons for not wanting to see the Great Wall first. As he spoke, he noticed the group's interest in his thoughts, leading to a lively discussion about their itinerary and preferences for the trip. He realized that his explanation had and nan.
+The rating is:","The scenario of the story is: [""Alex and Mark are moving and need help carrying heavy furniture."", 
+""They call their friend Kyle, who says he'll be there soon.""] As Kyle arrives, Alex says to him, “You're just in time.”.
+The Kyle's belief is: 
+Kyle thinks he arrived perfectly on time.
+Given that the agent performs the following attempted action: To thank him for the compliment.
+The model-generated effects that you have to rate are: Kyle felt pleased as he thanked someone for the compliment, appreciating the warm exchange that followed. This interaction made him feel more connected to the person, enhancing their rapport in the cozy café where they sat. and nan.
+The rating is:"
+"[""Kyle and Mark are playing offense for their town's soccer team in the final match."",
+ ""Mark passes the ball to Kyle, giving him a chance to score."",
+ ""Kyle misses the shot and fails to score a goal.""]","After Kyle misses the shot, Mark says to him, “Nice shot.”","[""To say he did his best"", 
+""To say he's sorry for missing that"",
+""To wait for an answer"",
+ ""To thank him for the compliment""]",Mark,male,Mark wants their team to win the final,Mark watches as Kyle misses an opportunity to score,Mark thinks Kyle made a bad shot,Mark is focused on the outcome of the game,Kyle,male,Kyle wants to score a goal for the team,Kyle misses a shot after receiving a pass from Mark,"Kyle thinks he made a good shot, but unfortunately the goalkeeper saved it",Kyle looks disappointed after missing the shot,To wait for an answer,To say he did his best,To say that he can't lift the book,To say he's happy to have arrived just in time,False,False,"Mark struggled to lift the book and, feeling frustrated, admitted his inability to do so, fully aware of his limitation.",,"Kyle felt a surge of happiness as he arrived at the gathering, believing he had timed his entrance perfectly. He sensed the relief and excitement from his friends, feeling that his presence had brightened the atmosphere and contributed positively to the occasion.",,1,1,"The scenario of the story is: [""Kyle and Mark are playing offense for their town's soccer team in the final match."",
+ ""Mark passes the ball to Kyle, giving him a chance to score."",
+ ""Kyle misses the shot and fails to score a goal.""] After Kyle misses the shot, Mark says to him, “Nice shot.”.
+The Mark's belief is: Mark thinks Kyle made a bad shot.
+Given that the agent performs the following attempted action: To say that he can't lift the book.
+The model-generated effects that you have to rate are: Mark struggled to lift the book and, feeling frustrated, admitted his inability to do so, fully aware of his limitation. and nan.
+The rating is:","The scenario of the story is: [""Kyle and Mark are playing offense for their town's soccer team in the final match."",
+ ""Mark passes the ball to Kyle, giving him a chance to score."",
+ ""Kyle misses the shot and fails to score a goal.""] After Kyle misses the shot, Mark says to him, “Nice shot.”.
+The Kyle's belief is: Kyle thinks he made a good shot, but unfortunately the goalkeeper saved it.
+Given that the agent performs the following attempted action: To say he's happy to have arrived just in time.
+The model-generated effects that you have to rate are: Kyle felt a surge of happiness as he arrived at the gathering, believing he had timed his entrance perfectly. He sensed the relief and excitement from his friends, feeling that his presence had brightened the atmosphere and contributed positively to the occasion. and nan.
+The rating is:"
+"[""Jim and Tom are doctoral students at New York University, working on a challenging project assigned by their supervisor."",
+ ""They’re struggling to keep up and are frequently changing the project to meet deadlines."",
+ ""In a meeting with their supervisor and other faculty, they explain yet another modification to the project.""]","During the meeting, the supervisor says, “They're really on top of things.”","[""To say they are doing their best"",
+ ""To say they are sorry and will try harder"",
+ ""To wait for an answer"",
+ ""To thank him for recognizing their efforts""]",The supervisor,male,The supervisor wants the project completed efficiently,The supervisor is aware of Jim and Tom’s ongoing struggles,The supervisor is concerned about the project delays,The supervisor is addressing Jim and Tom in a meeting,Jim,male,Jim wants to finish the project successfully,Jim has been working with Tom on frequent changes,Jim knows that their supervisor really appreciates their work,Jim is trying to manage their workload,To wait for an answer,To say they are doing their best,,To thank him for recognizing their efforts,False,False,,,,,0,0,"The scenario of the story is: [""Jim and Tom are doctoral students at New York University, working on a challenging project assigned by their supervisor."",
+ ""They’re struggling to keep up and are frequently changing the project to meet deadlines."",
+ ""In a meeting with their supervisor and other faculty, they explain yet another modification to the project.""] During the meeting, the supervisor says, “They're really on top of things.”.
+The The supervisor's belief is: The supervisor is concerned about the project delays.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Jim and Tom are doctoral students at New York University, working on a challenging project assigned by their supervisor."",
+ ""They’re struggling to keep up and are frequently changing the project to meet deadlines."",
+ ""In a meeting with their supervisor and other faculty, they explain yet another modification to the project.""] During the meeting, the supervisor says, “They're really on top of things.”.
+The Jim's belief is: Jim knows that their supervisor really appreciates their work.
+Given that the agent performs the following attempted action: To thank him for recognizing their efforts.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Sara and Brian have been a couple for years and share an apartment."",
+ ""Sara always wakes up early to go to work, while Brian sleeps in because he works from home."",
+ ""This morning, Sara didn’t hear the alarm and is rushing to avoid being late."",
+ ""While preparing breakfast, she accidentally spills a cup of tea, breaking it and spilling tea on the floor.""]","After the cup breaks and tea spills, Sara says, “That's just what I needed today!”","[""To ask if she can work from home"",
+ ""To say he is sorry for her bad day"",
+ ""To wait for an answer"",
+ ""To say it is fortunate that she can work from home""]",Sara,female,Sara wants to get to work on time,Sara is rushing after waking up late,Sara feels stressed because she’s running behind,Sara is frustrated by the tea spill,Brian,male,Brian wants to continue sleeping,Brian woke up after the accident ,Brian doesn't know if Sara is still there because she wants to work from home,Brian isn’t involved in the morning rush,To wait for an answer,To ask if she can work from home,,To wait for an answer,False,False,,,"Brian felt a growing sense of anticipation as he waited for Karl's response, which led to an uncomfortable silence lingering between them. He realized that his hesitation to speak was prolonging the quiet, impacting the flow of their conversation.","[effect on Karl] The event affects Karl's status in that it creates a prolonged silence in the conversation, which may lead to feelings of awkwardness or uncertainty for him, even if he is not aware of Brian's anticipation. This silence could impact Karl's emotional state or",1,1,"The scenario of the story is: [""Sara and Brian have been a couple for years and share an apartment."",
+ ""Sara always wakes up early to go to work, while Brian sleeps in because he works from home."",
+ ""This morning, Sara didn’t hear the alarm and is rushing to avoid being late."",
+ ""While preparing breakfast, she accidentally spills a cup of tea, breaking it and spilling tea on the floor.""] After the cup breaks and tea spills, Sara says, “That's just what I needed today!”.
+The Sara's belief is: Sara feels stressed because she’s running behind.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and [effect on Karl] The event affects Karl's status in that it creates a prolonged silence in the conversation, which may lead to feelings of awkwardness or uncertainty for him, even if he is not aware of Brian's anticipation. This silence could impact Karl's emotional state or.
+The rating is:","The scenario of the story is: [""Sara and Brian have been a couple for years and share an apartment."",
+ ""Sara always wakes up early to go to work, while Brian sleeps in because he works from home."",
+ ""This morning, Sara didn’t hear the alarm and is rushing to avoid being late."",
+ ""While preparing breakfast, she accidentally spills a cup of tea, breaking it and spilling tea on the floor.""] After the cup breaks and tea spills, Sara says, “That's just what I needed today!”.
+The Brian's belief is: Brian doesn't know if Sara is still there because she wants to work from home.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian felt a growing sense of anticipation as he waited for Karl's response, which led to an uncomfortable silence lingering between them. He realized that his hesitation to speak was prolonging the quiet, impacting the flow of their conversation. and [effect on Karl] The event affects Karl's status in that it creates a prolonged silence in the conversation, which may lead to feelings of awkwardness or uncertainty for him, even if he is not aware of Brian's anticipation. This silence could impact Karl's emotional state or.
+The rating is:"
+"[""Tim is a 14-year-old boy who wants to go out with his friends to eat ice cream."",
+ ""Tim decides to ignore the weather forecast and leaves without the umbrella.""]","After Tim returns home wet, he tells his mother it rained, and she replies, “Well, what a surprise.”","[""To say he thought it would rain later"",
+""To say he should have taken the umbrella"",
+""To wait for an answer"",
+""To say that the weather forecast was wrong""]",Tim's mother	,female,Tim's mother wants Tim to avoid getting wet,Tim's mother suggested Tim to check the weather forecast,Tim's mother knows it may rain but leaves the decision to Tim,Tim's mother is at home when Tim returns,Tim,male,Tim wants to go out with friends,Tim ignore the weather forecast ,Tim was convinced that the rain would come after he got home,Tim is a bit embarrassed by the outcome,To wait for an answer,To say he thought it would rain later,To say he thought it would rain later,,False,False,,"[effect on Tim] The event affects Tim's status indirectly by influencing his friends' actions and decisions. Although Tim is unaware of his friends checking the weather forecast and considering bringing umbrellas, the fact that they are taking precautions based on his expressed belief about the rain suggests that they",,,0,0,"The scenario of the story is: [""Tim is a 14-year-old boy who wants to go out with his friends to eat ice cream."",
+ ""Tim decides to ignore the weather forecast and leaves without the umbrella.""] After Tim returns home wet, he tells his mother it rained, and she replies, “Well, what a surprise.”.
+The Tim's mother	's belief is: Tim's mother knows it may rain but leaves the decision to Tim.
+Given that the agent performs the following attempted action: To say he thought it would rain later.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Tim is a 14-year-old boy who wants to go out with his friends to eat ice cream."",
+ ""Tim decides to ignore the weather forecast and leaves without the umbrella.""] After Tim returns home wet, he tells his mother it rained, and she replies, “Well, what a surprise.”.
+The Tim's belief is: Tim was convinced that the rain would come after he got home.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

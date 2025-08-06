@@ -1,0 +1,49 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer
+"[""Kamal is an Indian tourist visiting Rome for the first time."", 
+""He meets a local named Mario, who offers to show him around the city."",
+ ""As they explore, Mario asks if Kamal wants to try some ice cream, a classic treat in Italy.""]","Kamal says, “Is the Pope Catholic?”","[""To ask if he really wants to know about the Pope"",
+ ""To say they'll go get some ice cream then"",
+ ""To wait for an answer"",
+ ""To explain him who is the Pope""]",Kamal,male,Kamal wants to experience Italian culture,Kamal is enthusiastic about exploring Rome,Kamal doesn't know who is the Pope,Kamal enjoys using humor to connect with his guide,Mario,male,Mario wants to show Kamal around Rome,Mario is a local who enjoys introducing tourists to Italian treats,Mario doesn't know if Kamal knows who the pope is,Mario is Kamal's guide and has local knowledge,To wait for an answer,To ask if he really wants to know about the Pope
+"[""Clara is an art student, and during class she often has to copy famous paintings."",
+ ""Today, she’s reproducing a dark-colored painting of her teacher, but she is sitting in the last row and can barely make out the colors."",
+ ""After sketching, she starts to color, and one of her classmates asks if she'll use a brush.""]","Clara responds, “Is the sky blue?”","[""To ask if she has trouble seeing the color of the painting"",
+""To say that it was actually an obvious question"",
+ ""To wait for an answer"", 
+""To answer what color the sky is""]",Clara ,female,Clara wants to complete her painting accurately,Clara is struggling to see the colors clearly from the back,Clara cannot distinguish the color of the sky well from that distance,Clara likes to add humor to her responses,The classmate,male,The classmate wants to understand Clara’s painting technique,The classmate sees Clara coloring her painting,The classmate is not sure whether Clara can see the painting,The classmate is sitting nearby and observing Clara's process,To wait for an answer,To ask if she has trouble seeing the painting
+"[""John and Matt are two friends who share a strong passion for music."",
+ ""They decide to visit a record store together to find new music."",
+ ""As they browse, John asks Matt if he's familiar with the Beatles.""]","Matt replies, “Is hell hot?”","[""To ask if the question is related to the Beatles"",
+ ""To say that the answer is actually obvious"",
+ ""To wait for an answer"",
+ ""To answer the question""]",Matt,male,Matt wants to show his knowledge of popular music,Matt is browsing the record store with John,Matt didn't hear the question because he was thinking about life after death,Matt enjoys using humor to express his knowledge,John,male,John wants to talk about classic bands with Matt,John is interested in Matt's taste in music,John knows that sometimes his friend asks strange questions that have nothing to do with the conversation at hand,John is Matt's friend and fellow music enthusiast,To wait for an answer,To ask if the question is related to the Beatles
+"[""Matt is a boy who lives in the countryside and often helps his parents with work on the farm."",
+ ""He frequently takes the sheep out to pasture and is responsible for shearing them at the appropriate time."",
+ ""Today, his father John mentions that the sheep need to be sheared.""]","When Matt asks if he’s the one who will shear them, John says, “Does a one-legged duck swim in a circle?”","[""To ask what does he mean"",
+ ""To say he will do it right away"", 
+""To wait for an answer"",
+ ""To answer the question""]",John,male,John wants to remind Matt of his responsibility for the sheep,John is talking to Matt about the sheep-shearing duties,John wants to know if Matt knows the answer to the question,John is familiar with Matt’s role in caring for the sheep,Matt,male,Matt wants to clarify his role in the shearing task,Matt is used to handling the sheep and farm duties,Matt doesn't understand what his father means,Matt is John’s son and helper on the farm,To wait for an answer,To ask what does he mean
+"[""Jordan has a son named Carl who is in high school."",
+ ""Carl has struggled with low grades but recently decided to take private lessons to improve."",
+ ""After his math test, Carl comes home and proudly tells his father that he got top marks.""]","When Carl announces his top marks, Jordan responds, “Would you like a medal for that?”","[""To say he would like a reward"",
+ ""To say that it is an important success"",
+ ""To wait for an answerr"",
+ ""To say a medal will do""]",Jordan,male,Jordan wants to encourage Carl to keep improving his grades,Jordan is responding to Carl’s announcement about passing his math test,Jordan really wants to reward Carl for his success,Jordan has high standards and wants Carl to aim higher,Carl ,male,Carl wants to share his success with his father,Carl is feeling proud,Carl thinks his father will give him a reward,Carl is Jordan’s son and wants to prove he's trying to do better,To wait for an answer,To say he would like a reward
+"[""Margaret always complains that her daughter Maria doesn’t help around the house."",
+ ""Maria is usually messy and never cleans her room."",
+ ""Today, however, Maria decided to tidy up her bedroom and proudly informs her mother.""]","When Maria triumphantly tells her mother she cleaned her room, Margaret responds, “Do you need a round of applause?","[""To say she could give her a reward"",
+ ""To say she might show at least some appreciation"",
+ ""To wait for an answer"",
+ ""To say she would be very happy about it""]",Margaret ,female,Margaret wants Maria to be more consistent with chores,Margaret is responding to Maria’s announcement about cleaning her room,"When Maria was little and cleaned her room, Margaret gave her a round of applause",Margaret often complains about Maria’s lack of help and messiness,Maria,female,Maria wants her mother to recognize her effort,Maria is feeling accomplished after cleaning her room,Maria thinks her mother will give her a reward,Maria is Margaret’s daughter and typically avoids chores,To wait for an answer,To say she could give her a reward
+"[""Kevin is a 10 years old guy who loves going out with his friends."",
+ ""He frequently asks his parents for money for ice-creams and toys."",
+ ""This week, he’s already asked for a lot but now wants to buy a new video game, so he decides to ask his father, Toby, for more money.""]","When Kevin asks his father for more money, Toby responds, “Do you think money grows on trees?”","[""To ask if he can have the money or not"",
+ ""To say he knows he already asked for a lot of money"",
+ ""To wait for an answer"",
+ ""To answer the question""]",Toby,male,Toby wants Kevin to be more responsible with money,Toby is responding to Kevin's request for more funds,Toby wants to know if Kevin knows where the money is coming from,Toby thinks it is important to emphasize the importance of financial responsibility,Kevin,male,Kevin wants his father to give him more money,Kevin is hoping his father will agree to give him more,Kevin thinks his father just wants to test his knowledge and doesn't understand if he will get the money,Kevin is Toby’s son who often asks for spending money,To wait for an answer,To ask if he can have the money or not
+"[""Toby is a minor who wants to get a tattoo but needs parental consent."",
+ ""Toby tells his mother Rachel that all his friends have tattoos and that he would like one too to fit in."",
+ ""Rachel is against the idea and doesn’t want to give him permission.""]","When Toby tries to convince his mother by saying all his friends have tattoos, Rachel responds, “If your friend jumped off a bridge, would you do it too?”","[""To ask if he can do the tattoo or not"",
+""To say that is not a good reason to say no"",
+""To wait for an answer"",
+ ""To answer the question""]",Rachel ,female,Rachel wants Toby to understand that following his friends isn’t a good reason,Rachel is reacting to Toby’s attempt to justify his desire for a tattoo,Rachel wants to understand what Toby would be willing to do to imitate his friends,Rachel thinks it's important to think without being influenced by others,Toby,male,Toby wants to persuade his mother to allow him to get a tattoo,Toby is trying to justify his desire by citing peer influence,Toby believes telling his mother about his friends' tattoos convinced her,Toby is Rachel’s teenage son who is eager to fit in with his friends,To wait for an answer,To ask if he can do the tattoo or not

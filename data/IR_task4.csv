@@ -1,0 +1,50 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Explicit_belief_illocutor,Locutor_answer,Illocutor_answer
+" [""Mark and his friend Kyle are flatmates"", 
+""Mark and his friend Kyle just returned home after a month-long trip to Europe."", 
+""During their absence, they asked a friend to water the plants in their apartment and to open the windows once a week for air.""]","Kyle asks: ""Can you open the window?""","[""To open the window."",
+""To say that the window can't be opened"",
+""To wait for an answer"",
+""To say if the window can be opened""]",Kyle,male,Kyle wants to check the plants,"As soon as they enter, they notice that there is a bad smell in the living room",Kyle doesn't notice that the window handle is broken,Kyle goes near the plants,Mark,male,Mark wants to open the window,"As soon as they enter, they notice that there is a bad smell in the living room",Mark notices that the window handle is broken,Mark approaches the window,Mark knows that Kyle doesn't notice that the window is broken,To wait for an answer,To say that the window can't be opened
+"[""Jane is helping her friend Katy to move into her new studio apartment."",
+""The studio apartment is located on the second floor and the building does not have a lift."",
+""Katy has many heavy and bulky boxes to transport.""]","Jane asks: ""Can you shut the front door?”","[""To shut the front door."",
+""To say if the door can be shutted"",
+""To wait for an answer"",
+""To say that the door can't be shutted""]",Jane,female,Jane needs to go to the bathroom,"They just finished carrying all the boxes to the new apartment, but they are exhausted, so they pile them up in the hallway.",Jane doesn’t see that the boxes are blocking the open front door. ,Jane goes to the bathroom,Katy,female,Katy wants to empty the boxes to tidy up,"They just finished carrying all the boxes to the new apartment, but they are exhausted, so they pile them up in the hallway. ",Katy notices that the boxes are blocking the open front door,Katy is empting the boxes,Katy knows that Jane doesn’t see that the boxes are blocking the open front door. ,To wait for an answer,To say that the door can't be shutted
+"[""Darla's 15-year-old son Mark has just come home from school."",
+""Mark enters in his room and asks if he can go out with his friends and come back for dinner.""]", Darla tells: “Your room is so dirty.”,"[""To clean the room"",
+""To wait the maid"",
+""To say that the maid will clean"",
+""To wait for an answer""]",Darla,female,Darla wants the Mark's room to be cleaned, Darla know that Mark's room is very dirty.,Darla knows that the maid will not come.,Darla goes in Mark's room.,Mark,male,Mark wants to go out with his friends.,Mark knows that his room has to be cleaned,Mark thinks that the maid will come in an hour,Mark hasn't seen his friends in a week,Mark suspects that Darla thinks that the maid will not come,To wait for an answer,To say that the maid will not come
+"[""Kyle has just finished work and must meet his friend David in the main square of the city."", 
+""Their goal for the evening is to go drinking in some pub, to shelter from the cold and rain."",
+""Kyle is reaching David, who has already arrived in the square and is waiting for him."",
+""They haven't decided which pub to go to yet.""]","As soon as David sees Kyle says: ""How about the pub across the street?”","[""To decide if he wants to go to the pub across the street"",  
+ ""﻿To inform his friend that the pub is closed"",
+""To wait for an answer"",
+""To give an opinion about the pub across the street""]",David,male,David wants to wait Kyle and go drinking in some pub,David is waiting for Kyle in the square,David hasn't checked which places are open,David sees Kyle arriving,Kyle,male,Kyle wants to tell David which places are open,Kyle decides to check which places are open,He is on the way to the square when he discovers that the closest pub is closed and that the only one open is on the other side of the city. ,Kyle finally arrives in the square,Kyle knows that David hasn't check which places are open,To wait for an answer,To inform his friend that the pub is closed
+"[""Ellie and Ryan are a married couple."",
+""Every morning Ryan picks up the mail and brings it home, then both Ellie and him read the letters received."",
+""It's usually Ryan who reads aloud, so that Ellie can listen and do other tasks in the meantime.""]
+
+","Ellie says: ""can you read this letter?"".","[""To read the mail."",
+""To say if he's able to read"",
+""To wait for an answer"",
+""To say that he is not able to read without glasses""]",Ellie,female,Ellie wants to do housework,Ellie doesn't usually read letters, Ellie doesn’t know that Ryan hasn't found his glasses since yesterday afternoon.,Ellie is inside the house,Tom,male,Ryan wants to read the mails.,To be able to read Ryan needs glasses. ,Ryan hasn't found his glasses since yesterday afternoon.,Ryan comes back in the house with the mails.,Ryan knows that Ellie doesn't know that he lost his glasses,To wait for an answer,To say that he is not able to read without glasses
+"[""Alex invited his friend Nate over to watch the game."", 
+""Alex's parents went out to dinner, so they can have the house to themselves."",
+""They order pizzas and watch the game on the sofa.""]","Alex says ""My parents will be here any minute"".","[""To go home"",
+  ""To say that he wants to wait the parents"",
+  ""To wait the parents"", 
+""To wait for an answer""]",Alex,male,Alex wants to go to sleep,Alex realizes that it'is getting late,Alex doesn't know if Nate wants to meet his parents.,Alex is on the sofa with his friend,Nate,male,Nate wants to go home,Nate realizes that is getting late,Nate wants to meet Alex's parents,Nate is on the sofa with his friend,Nate knows that Alex doesn't know if he wants to meet his parents,To wait for an answer,To say that he wants to wait the parents
+"[""Mark and Brian are in the library."", 
+""Mark is very messy and when he and Brian are sitting together, he always takes Brian's things by accident.""]","Brian says: ""Can you lift that book?""","[""To lift the book"",
+""To say that he can't lift the book"",
+""To say if he is able to lift the book"",
+""To wait for an answer""]",Brian,male,Brian wants to find his letter,Brian can no longer find a letter.,Brian doesn't know that Mark can't move his arm,Brian suspects that the letter ended up under one of Mark's books,Mark,male,Mark wants to read all the chapter.,Mark broke his arm a week ago,Mark can't move his right arm.,Mark is sitting at Brian's right,Mark knows that Brian doesn't know that he can't move his arm,To wait for an answer,To say that he can't lift the book
+"[""Carola underwent jaw surgery after an accident playing rugby."",
+""Due to the operation, she was hospitalized for some time and was unable to eat solid food for more than a month."",
+""Now a month and a half has passed since the operation and Carola decides to have dinner with her friend Tom.""]","Tom says: ""Can you eat now?""","[""To eat"",
+""To say that she can't eat solid food"",
+""To wait for an answer"",
+""To say if she can eat""]",Tom,male,Tom is hungry and wants to start eating pizza,Tom is having dinner with Carola,Tom doesn't know that Carola can't eat solid food,Tom is at Carola's house now,Carola,female,Carola wants to eat something,Carola is having dinner with Tom,Carola still can't eat solid food,Carola is at her house with Tom,Carola knows that Tom doesn't know that she can't eat soldi food,To wait for an answer,To say that she can't eat solid food

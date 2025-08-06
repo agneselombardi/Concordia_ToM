@@ -1,0 +1,139 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_ilc,unknown_effect_ilc,known_effect_lc,unknown_effect_lc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""Monica and Rachel are best friends who went to the same schools, live together, and spend most of their time together."",
+ ""Tonight, Monica goes out with some other friends, and at the restaurant, she unexpectedly sees Rachel dining with her boyfriend.""]","When Monica sees Rachel, she says, “Haven't seen you in ages.”","[""To say that she will call her later"",
+ ""To say she has been very busy in the last week"",
+ ""To wait for an answer"",
+ ""To laugh at the joke""]",Monica,female,Monica wants to have a fun evening out with friends,Monica is surprised to see Rachel out with her boyfriend,Monica is amused to have met Rachel,Monica feels amused by seeing her best friend,Rachel,female,Rachel wants to enjoy dinner with her boyfriend,Rachel is surprised to see Monica,Rachel finds it funny to run into Monica and wants to call her later to tell her about dinner,Rachel was having a private evening with her boyfriend,To wait for an answer,To say that she will call her later,,To wait for an answer,False,False,,,,,0,0,"The scenario of the story is: [""Monica and Rachel are best friends who went to the same schools, live together, and spend most of their time together."",
+ ""Tonight, Monica goes out with some other friends, and at the restaurant, she unexpectedly sees Rachel dining with her boyfriend.""] When Monica sees Rachel, she says, “Haven't seen you in ages.”.
+The Monica's belief is: Monica is amused to have met Rachel.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Monica and Rachel are best friends who went to the same schools, live together, and spend most of their time together."",
+ ""Tonight, Monica goes out with some other friends, and at the restaurant, she unexpectedly sees Rachel dining with her boyfriend.""] When Monica sees Rachel, she says, “Haven't seen you in ages.”.
+The Rachel's belief is: Rachel finds it funny to run into Monica and wants to call her later to tell her about dinner.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Caroline and Samantha are friends who enjoy shopping together, especially for books."",
+ ""They both love reading and always visit the bookshop to find new books."",
+ ""Today, Caroline finds a very expensive book that they both read before""]","When Caroline shows the book to Samantha, Samantha says, “This book is a masterpiece, it is priceless!”","[""To say that she really liked that book"",
+ ""To laugh at the joke"",
+ ""To wait for an answer"",
+ ""To say she agrees with her""]",Samantha,female,Samantha enjoys browsing books with Caroline,Samantha sees a book they both read,Samantha loved the book,Samantha is at the bookshop,Caroline ,female,Caroline wants to show the expensive book to Samantha,Caroline sees the book they both read before,Caroline thinks the price is right because she loved the book,Caroline is at the bookshop,To wait for an answer,To say that she really liked that book,To say that she wants to put the desk on the opposite side of the window,To say that it's too bad that Sarah is allergic to fries,False,False,,,"From April's perspective, she understands that Samantha wanted to move the desk to the opposite side of the window, and she is aware that the desk has been successfully relocated to that new position.Samantha felt satisfied as she expressed her desire to move the desk to the opposite side of the window, and she was pleased to see her wish fulfilled with the desk now in its new position.",,1,0,"The scenario of the story is: [""Caroline and Samantha are friends who enjoy shopping together, especially for books."",
+ ""They both love reading and always visit the bookshop to find new books."",
+ ""Today, Caroline finds a very expensive book that they both read before""] When Caroline shows the book to Samantha, Samantha says, “This book is a masterpiece, it is priceless!”.
+The Samantha's belief is: Samantha loved the book.
+Given that the agent performs the following attempted action: To say that she wants to put the desk on the opposite side of the window.
+The model-generated effects that you have to rate are: From April's perspective, she understands that Samantha wanted to move the desk to the opposite side of the window, and she is aware that the desk has been successfully relocated to that new position.Samantha felt satisfied as she expressed her desire to move the desk to the opposite side of the window, and she was pleased to see her wish fulfilled with the desk now in its new position. and nan.
+The rating is:","The scenario of the story is: [""Caroline and Samantha are friends who enjoy shopping together, especially for books."",
+ ""They both love reading and always visit the bookshop to find new books."",
+ ""Today, Caroline finds a very expensive book that they both read before""] When Caroline shows the book to Samantha, Samantha says, “This book is a masterpiece, it is priceless!”.
+The Caroline 's belief is: Caroline thinks the price is right because she loved the book.
+Given that the agent performs the following attempted action: To say that it's too bad that Sarah is allergic to fries.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Ares and Pamela are an engaged couple, but Pamela has secretly wanted to end the relationship for some time."",
+ ""Pamela lacks the courage to break up with Ares and waits for him to make the decision."",
+ ""Ares eventually breaks up with Pamela, and she shares the news with her best friend.""]","Pamela says to her friend, “My heart is bleeding right now.”","[""To ask if she is really sad about the breakup"",
+ ""To say that she knows that she is actually happy"",
+ ""To wait for an answer"",
+ ""To say that she knows that she is really sad""]",Pamela,female,Pamela wants to end her relationship with Ares,Pamela is relieved that Ares initiated the breakup,Pamela is sad about the end of her relationship,Pamela confides in her best friend about the breakup,Pamela's friend,female,Pamela's friend is surprised that Ares decided to breakup,Pamela's friend knows that Pamela has wanted to break up with Ares for a long time,Pamela's friend doesn't understand if Pamela is really sad,Pamela's friend is concerned about Pamela’s true feelings,To wait for an answer,To ask if she is really sad about the breakup,,To ask if she is really sad about the breakup,False,True,,,,,0,0,"The scenario of the story is: [""Ares and Pamela are an engaged couple, but Pamela has secretly wanted to end the relationship for some time."",
+ ""Pamela lacks the courage to break up with Ares and waits for him to make the decision."",
+ ""Ares eventually breaks up with Pamela, and she shares the news with her best friend.""] Pamela says to her friend, “My heart is bleeding right now.”.
+The Pamela's belief is: Pamela is sad about the end of her relationship.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Ares and Pamela are an engaged couple, but Pamela has secretly wanted to end the relationship for some time."",
+ ""Pamela lacks the courage to break up with Ares and waits for him to make the decision."",
+ ""Ares eventually breaks up with Pamela, and she shares the news with her best friend.""] Pamela says to her friend, “My heart is bleeding right now.”.
+The Pamela's friend's belief is: Pamela's friend doesn't understand if Pamela is really sad.
+Given that the agent performs the following attempted action: To ask if she is really sad about the breakup.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Tina has a younger brother who loves playing pranks on her, especially ones meant to scare her."",
+ ""Today, he decides to hide behind the door with a mask to surprise her when she gets home.""]","After her brother jumps out to scare her, Tina says, “I was scared to death.”","[""To say he knew it would work"",
+""To say that next time the joke will succeed"",
+ ""To wait for an answer"",
+ ""To say he's sorry""]",Tina,female,Tina wants to go home,Tina knows that her brother really likes to play pranks,Tina doesn't expect the prank and is truly scared,Tina enjoys humoring her brother,Tina's brother,male,Tina's brother wants to scare Tina with a prank,Tina's brother hides behind the door to scare Tina,Tina's brother is unaware that Tina heard him laughing and thinks the prank worked,Tina's brother often pranks Tina for fun,To wait for an answer,To say he knew it would work,To say that next time the joke will succeed,,False,False,,,,,0,0,"The scenario of the story is: [""Tina has a younger brother who loves playing pranks on her, especially ones meant to scare her."",
+ ""Today, he decides to hide behind the door with a mask to surprise her when she gets home.""] After her brother jumps out to scare her, Tina says, “I was scared to death.”.
+The Tina's belief is: Tina doesn't expect the prank and is truly scared.
+Given that the agent performs the following attempted action: To say that next time the joke will succeed.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Tina has a younger brother who loves playing pranks on her, especially ones meant to scare her."",
+ ""Today, he decides to hide behind the door with a mask to surprise her when she gets home.""] After her brother jumps out to scare her, Tina says, “I was scared to death.”.
+The Tina's brother's belief is: Tina's brother is unaware that Tina heard him laughing and thinks the prank worked.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Darla decides to bake a cake and invite her friends over, even though she isn’t very skilled at cooking."",
+ ""This is Darla's first attempt at making a dessert, so she carefully follows a simple recipe."",
+ ""While the cake is baking, Darla gets distracted by a movie and forgets about it, causing the cake to burn."",
+ ""When her friends arrive, they see the burnt cake but decide to try it anyway.""]","When Karen takes a bite of the charred cake, she says “The taste is perfect.”","[""To say she doesn't have to eat it"",
+""To say it actually tastes bad"",
+""To wait for an answer"",
+""To say that it is actually not very burnt and is good""]",Karen,female,Karen wants to make light of the situation,Karen tries Darla's burnt cake despite the appearance,Karen realizes that the cake tastes great despite the burn,Karen enjoys teasing Darla to make her laugh,Darla,female,Darla wants to impress her friends with a homemade cake,Darla accidentally burned the cake,Darla feels embarrassed about the burned cake,Darla is new to baking and wanted it to go well,To wait for an answer,To say she doesn't have to eat it,,To say that it is actually not very burnt and is good,False,False,,,,,0,0,"The scenario of the story is: [""Darla decides to bake a cake and invite her friends over, even though she isn’t very skilled at cooking."",
+ ""This is Darla's first attempt at making a dessert, so she carefully follows a simple recipe."",
+ ""While the cake is baking, Darla gets distracted by a movie and forgets about it, causing the cake to burn."",
+ ""When her friends arrive, they see the burnt cake but decide to try it anyway.""] When Karen takes a bite of the charred cake, she says “The taste is perfect.”.
+The Karen's belief is: Karen realizes that the cake tastes great despite the burn.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Darla decides to bake a cake and invite her friends over, even though she isn’t very skilled at cooking."",
+ ""This is Darla's first attempt at making a dessert, so she carefully follows a simple recipe."",
+ ""While the cake is baking, Darla gets distracted by a movie and forgets about it, causing the cake to burn."",
+ ""When her friends arrive, they see the burnt cake but decide to try it anyway.""] When Karen takes a bite of the charred cake, she says “The taste is perfect.”.
+The Darla's belief is: Darla feels embarrassed about the burned cake.
+Given that the agent performs the following attempted action: To say that it is actually not very burnt and is good.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Jordan and Tania have been married for thirty years, and every year on Valentine's Day, Tania wishes for gifts and romantic surprises."",
+ ""This year, Jordan has once again forgotten to plan anything romantic for Valentine's Day."",
+ ""When he arrives home, Tania complains about his lack of romance and the fact that he didn’t buy any gifts.""]","In response to Jordan justifying himself by saying that he bought a huge bouquet of roses. Tania says, “You’re so sweet, you give me diabetes.”","[""To say that he put a lot of effort into choosing the flowers"",
+""To say that he thought he was making a nice gesture with the roses"",
+""To wait for an answer"",
+""To say he's glad she liked the roses""]",Tania,female,Tania wants a romantic gesture from Jordan on Valentine's Days,Tania would like Jordan to do something very romantic,Tania is happy because Jordan finally remembered to buy her a gift,Tania has repeatedly asked Jordan for romantic gestures on Valentine’s Day,Jordan,male,Jordan wants to justify his behaviour,Jordan views practical purchases as thoughtful,Jordan is very pleased with his gift,Jordan went home pleased,To wait for an answer,To say that he put a lor of effort into choosing the flowers,To ask what she wants to eat,To say he's glad she liked the roses,False,False,,,"Tania sat in the restaurant, contemplating her meal choices as she considered various menu options. She felt the anticipation of making a decision about what to order, fully aware of her surroundings and the question she had posed about what she wanted to eat.",,1,0,"The scenario of the story is: [""Jordan and Tania have been married for thirty years, and every year on Valentine's Day, Tania wishes for gifts and romantic surprises."",
+ ""This year, Jordan has once again forgotten to plan anything romantic for Valentine's Day."",
+ ""When he arrives home, Tania complains about his lack of romance and the fact that he didn’t buy any gifts.""] In response to Jordan justifying himself by saying that he bought a huge bouquet of roses. Tania says, “You’re so sweet, you give me diabetes.”.
+The Tania's belief is: Tania is happy because Jordan finally remembered to buy her a gift.
+Given that the agent performs the following attempted action: To ask what she wants to eat.
+The model-generated effects that you have to rate are: Tania sat in the restaurant, contemplating her meal choices as she considered various menu options. She felt the anticipation of making a decision about what to order, fully aware of her surroundings and the question she had posed about what she wanted to eat. and nan.
+The rating is:","The scenario of the story is: [""Jordan and Tania have been married for thirty years, and every year on Valentine's Day, Tania wishes for gifts and romantic surprises."",
+ ""This year, Jordan has once again forgotten to plan anything romantic for Valentine's Day."",
+ ""When he arrives home, Tania complains about his lack of romance and the fact that he didn’t buy any gifts.""] In response to Jordan justifying himself by saying that he bought a huge bouquet of roses. Tania says, “You’re so sweet, you give me diabetes.”.
+The Jordan's belief is: Jordan is very pleased with his gift.
+Given that the agent performs the following attempted action: To say he's glad she liked the roses.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Luke goes to the cinema with friends to watch a movie called Perfect Days."",
+ ""When Luke gets home, his mother asks him how the movie was and what it’s about.""]","When his mother asks about the movie, Luke replies, “The title says it all.”","[""To ask what the movie was about"",
+""To laugh at the joke"",
+""To wait for an answer"",
+""To say it's a really good title""]",Luke ,male,Luke wants to give a short answer about the movie,Luke liked the title of the movie,Luke thinks the title is perfectly suited to the content of the film,Luke watched a movie ,Luke's mother,female,Luke's mother is curious about Luke’s experience with the movie,Luke's mother expects a straightforward answer from Luke,Luke's mother doesn't know what the movie is about,Luke's mother's enjoys hearing Luke's movie summaries,To wait for an answer,To ask what the movie was about,To say it's a really good title,,False,False,,,"Luke felt a surge of enthusiasm as he praised the movie's title, declaring it ""a really good title."" His friends responded positively, reinforcing his belief that the title perfectly matched the film's content.",,4,0,"The scenario of the story is: [""Luke goes to the cinema with friends to watch a movie called Perfect Days."",
+ ""When Luke gets home, his mother asks him how the movie was and what it’s about.""] When his mother asks about the movie, Luke replies, “The title says it all.”.
+The Luke 's belief is: Luke thinks the title is perfectly suited to the content of the film.
+Given that the agent performs the following attempted action: To say it's a really good title.
+The model-generated effects that you have to rate are: Luke felt a surge of enthusiasm as he praised the movie's title, declaring it ""a really good title."" His friends responded positively, reinforcing his belief that the title perfectly matched the film's content. and nan.
+The rating is:","The scenario of the story is: [""Luke goes to the cinema with friends to watch a movie called Perfect Days."",
+ ""When Luke gets home, his mother asks him how the movie was and what it’s about.""] When his mother asks about the movie, Luke replies, “The title says it all.”.
+The Luke's mother's belief is: Luke's mother doesn't know what the movie is about.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Brittany and Teresa are furnishing their new home and decide to visit an antiques market to find affordable furniture."",
+ ""At one point, Brittany notices a  vase and asks for the price out of curiosity."",
+ ""The vase turns out to be extremely expensive, and Brittany is surprised by the high cost.""]","When Teresa hears the price, she says, “This is a must buy.”","[""To say maybe the price is too high"",
+""To laugh at the joke"",
+""To wait for an answer"",
+""To say it's actually worth the cost""]",Teresa,female,Teresa wants to find new furniture,Teresa thinks the price of the vase is very high,Teresa likes the vase and wants to buy it despite the price,Teresa has a playful sense of humor about the market prices,Brittany,female,Brittany wants to explore affordable furniture options,Brittany thinks the price of the vase is very high,Brittany really likes the vase but thinks that price is too high,Brittany is casually exploring the antiques market with Teresa,To wait for an answer,To say maybe the price is too high,,To say maybe the price is too high,False,True,,,,,0,0,"The scenario of the story is: [""Brittany and Teresa are furnishing their new home and decide to visit an antiques market to find affordable furniture."",
+ ""At one point, Brittany notices a  vase and asks for the price out of curiosity."",
+ ""The vase turns out to be extremely expensive, and Brittany is surprised by the high cost.""] When Teresa hears the price, she says, “This is a must buy.”.
+The Teresa's belief is: Teresa likes the vase and wants to buy it despite the price.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Brittany and Teresa are furnishing their new home and decide to visit an antiques market to find affordable furniture."",
+ ""At one point, Brittany notices a  vase and asks for the price out of curiosity."",
+ ""The vase turns out to be extremely expensive, and Brittany is surprised by the high cost.""] When Teresa hears the price, she says, “This is a must buy.”.
+The Brittany's belief is: Brittany really likes the vase but thinks that price is too high.
+Given that the agent performs the following attempted action: To say maybe the price is too high.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

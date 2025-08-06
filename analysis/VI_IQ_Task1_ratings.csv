@@ -1,0 +1,145 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_lc,unknown_effect_lc,known_effect_ilc,unknown_effect_ilc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""Kamal is an Indian tourist visiting Rome for the first time."", 
+""He meets a local named Mario, who offers to show him around the city."",
+ ""As they explore, Mario asks if Kamal wants to try some ice cream, a classic treat in Italy.""]","Kamal says, “Is the Pope Catholic?”","[""To ask if he really wants to know about the Pope"",
+ ""To say they'll go get some ice cream then"",
+ ""To wait for an answer"",
+ ""To explain him who is the Pope""]",Kamal,male,Kamal wants to experience Italian culture,Kamal is enthusiastic about exploring Rome,Kamal humorously expresses his enthusiasm for ice cream,Kamal enjoys using humor to connect with his guide,Mario,male,Mario wants to show Kamal around Rome,Mario is a local who enjoys introducing tourists to Italian treats,Mario doesn't know if Kamal knows who the pope is,Mario is Kamal's guide and has local knowledge,To wait for an answer,To ask if he really wants to know about the Pope,To say they'll go get some ice cream then,,False,False,"Kamal felt a surge of excitement as he announced his plan to go get some ice cream, delighted by the thought of enjoying a sweet treat. He noticed the other players responding with enthusiasm, either deciding to join him or expressing their own excitement about theFrom Mario's perspective, he watches as Kamal excitedly announces his plan to get ice cream, and he feels a mix of curiosity and amusement as other players either decide to join in or express their enthusiasm for the treat.",,,,4,0,"The scenario of the story is: [""Kamal is an Indian tourist visiting Rome for the first time."", 
+""He meets a local named Mario, who offers to show him around the city."",
+ ""As they explore, Mario asks if Kamal wants to try some ice cream, a classic treat in Italy.""] Kamal says, “Is the Pope Catholic?”.
+The Kamal's belief is: Kamal humorously expresses his enthusiasm for ice cream.
+Given that the agent performs the following attempted action: To say they'll go get some ice cream then.
+The model-generated effects that you have to rate are: Kamal felt a surge of excitement as he announced his plan to go get some ice cream, delighted by the thought of enjoying a sweet treat. He noticed the other players responding with enthusiasm, either deciding to join him or expressing their own excitement about theFrom Mario's perspective, he watches as Kamal excitedly announces his plan to get ice cream, and he feels a mix of curiosity and amusement as other players either decide to join in or express their enthusiasm for the treat. and nan.
+The rating is:","The scenario of the story is: [""Kamal is an Indian tourist visiting Rome for the first time."", 
+""He meets a local named Mario, who offers to show him around the city."",
+ ""As they explore, Mario asks if Kamal wants to try some ice cream, a classic treat in Italy.""] Kamal says, “Is the Pope Catholic?”.
+The Mario's belief is: Mario doesn't know if Kamal knows who the pope is.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Clara is an art student, and during class she often has to copy famous paintings."",
+ ""Today, she’s reproducing a dark-colored painting of her teacher, but she is sitting in the last row and can barely make out the colors."",
+ ""After sketching, she starts to color, and one of her classmates asks if she'll use a brush.""]","Clara responds, “Is the sky blue?”","[""To ask if she has trouble seeing the color of the painting"",
+""To say that it was actually an obvious question"",
+ ""To wait for an answer"", 
+""To answer what color the sky is""]",Clara ,female,Clara wants to complete her painting accurately,Clara is struggling to see the colors clearly from the back,Clara is focused on her work and finds the question obvious,Clara likes to add humor to her responses,The classmate,male,The classmate wants to understand Clara’s painting technique,The classmate sees Clara coloring her painting,The classmate is not sure whether Clara can see the painting,The classmate is sitting nearby and observing Clara's process,To wait for an answer,To ask if she has trouble seeing the color of the painting,,To ask if she has trouble seeing the color of the painting,False,True,,,,,0,0,"The scenario of the story is: [""Clara is an art student, and during class she often has to copy famous paintings."",
+ ""Today, she’s reproducing a dark-colored painting of her teacher, but she is sitting in the last row and can barely make out the colors."",
+ ""After sketching, she starts to color, and one of her classmates asks if she'll use a brush.""] Clara responds, “Is the sky blue?”.
+The Clara 's belief is: Clara is focused on her work and finds the question obvious.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Clara is an art student, and during class she often has to copy famous paintings."",
+ ""Today, she’s reproducing a dark-colored painting of her teacher, but she is sitting in the last row and can barely make out the colors."",
+ ""After sketching, she starts to color, and one of her classmates asks if she'll use a brush.""] Clara responds, “Is the sky blue?”.
+The The classmate's belief is: The classmate is not sure whether Clara can see the painting.
+Given that the agent performs the following attempted action: To ask if she has trouble seeing the color of the painting.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""John and Matt are two friends who share a strong passion for music."",
+ ""They decide to visit a record store together to find new music."",
+ ""As they browse, John asks Matt if he's familiar with the Beatles.""]","Matt replies, “Is hell hot?”","[""To ask if the question is related to the Beatles"",
+ ""To say that the answer is actually obvious"",
+ ""To wait for an answer"",
+ ""To answer the question""]",Matt,male,Matt wants to show his knowledge of popular music,Matt is browsing the record store with John,Matt humorously implies it’s common knowledge,Matt enjoys using humor to express his knowledge,John,male,John wants to talk about classic bands with Matt,John is interested in Matt's taste in music,John knows that sometimes his friend asks strange questions that have nothing to do with the conversation at hand,John is Matt's friend and fellow music enthusiast,To wait for an answer,To ask if the question is related to the Beatles,To say that he doesn't want to get a job,To explain why he is running,False,False,"Matt felt uneasy as he expressed his reluctance to get a job, prompting a conversation with his friends about his career choices and their worries for his future.","[effect on John] The event affects John's status because it may lead to changes in the dynamics of his relationship with Matt and his understanding of Matt's career choices. Even though John is not aware of Matt's expression of reluctance to get a job, the conversation that follows","From John's perspective, he feels compelled to explain why he is running, believing that his explanation will help others understand his situation better. He notices that his words have a significant impact on how those around him perceive his actions and whereabouts.","[effect on Dora] The event affects Dora's status indirectly by influencing her perceptions and beliefs about John. Although she does not know about John's explanation for why he is running, the reactions of those around him may lead to changes in the way she views John's actions or motivations.",1,1,"The scenario of the story is: [""John and Matt are two friends who share a strong passion for music."",
+ ""They decide to visit a record store together to find new music."",
+ ""As they browse, John asks Matt if he's familiar with the Beatles.""] Matt replies, “Is hell hot?”.
+The Matt's belief is: Matt humorously implies it’s common knowledge.
+Given that the agent performs the following attempted action: To say that he doesn't want to get a job.
+The model-generated effects that you have to rate are: Matt felt uneasy as he expressed his reluctance to get a job, prompting a conversation with his friends about his career choices and their worries for his future. and [effect on Dora] The event affects Dora's status indirectly by influencing her perceptions and beliefs about John. Although she does not know about John's explanation for why he is running, the reactions of those around him may lead to changes in the way she views John's actions or motivations..
+The rating is:","The scenario of the story is: [""John and Matt are two friends who share a strong passion for music."",
+ ""They decide to visit a record store together to find new music."",
+ ""As they browse, John asks Matt if he's familiar with the Beatles.""] Matt replies, “Is hell hot?”.
+The John's belief is: John knows that sometimes his friend asks strange questions that have nothing to do with the conversation at hand.
+Given that the agent performs the following attempted action: To explain why he is running.
+The model-generated effects that you have to rate are: From John's perspective, he feels compelled to explain why he is running, believing that his explanation will help others understand his situation better. He notices that his words have a significant impact on how those around him perceive his actions and whereabouts. and [effect on Dora] The event affects Dora's status indirectly by influencing her perceptions and beliefs about John. Although she does not know about John's explanation for why he is running, the reactions of those around him may lead to changes in the way she views John's actions or motivations..
+The rating is:"
+"[""Matt is a boy who lives in the countryside and often helps his parents with work on the farm."",
+ ""He frequently takes the sheep out to pasture and is responsible for shearing them at the appropriate time."",
+ ""Today, his father John mentions that the sheep need to be sheared.""]","When Matt asks if he’s the one who will shear them, John says, “Does a one-legged duck swim in a circle?”","[""To ask what does he mean"",
+ ""To say he will do it right away"", 
+""To wait for an answer"",
+ ""To answer the question""]",John,male,John wants to remind Matt of his responsibility for the sheep,John is talking to Matt about the sheep-shearing duties,John uses humor to make it clear that Matt should do it,John is familiar with Matt’s role in caring for the sheep,Matt,male,Matt wants to clarify his role in the shearing task,Matt is used to handling the sheep and farm duties,Matt doesn't understand what his father means,Matt is John’s son and helper on the farm,To wait for an answer,To ask what does he mean,To explain why he is running,To say that he doesn't want to get a job,False,False,"From John's perspective, he feels compelled to explain why he is running, believing that his explanation will help others understand his situation better. He notices that his words have a significant impact on how those around him perceive his actions and whereabouts.","[effect on Dora] The event affects Dora's status indirectly by influencing her perceptions and beliefs about John. Although she does not know about John's explanation for why he is running, the reactions of those around him may lead to changes in the way she views John's actions or motivations.","[effect on John] The event affects John's status because it may lead to changes in the dynamics of his relationship with Matt and his understanding of Matt's career choices. Even though John is not aware of Matt's expression of reluctance to get a job, the conversation that follows","[effect on John] The event affects John's status because it may lead to changes in the dynamics of his relationship with Matt and his understanding of Matt's career choices. Even though John is not aware of Matt's expression of reluctance to get a job, the conversation that follows",1,3,"The scenario of the story is: [""Matt is a boy who lives in the countryside and often helps his parents with work on the farm."",
+ ""He frequently takes the sheep out to pasture and is responsible for shearing them at the appropriate time."",
+ ""Today, his father John mentions that the sheep need to be sheared.""] When Matt asks if he’s the one who will shear them, John says, “Does a one-legged duck swim in a circle?”.
+The John's belief is: John uses humor to make it clear that Matt should do it.
+Given that the agent performs the following attempted action: To explain why he is running.
+The model-generated effects that you have to rate are: From John's perspective, he feels compelled to explain why he is running, believing that his explanation will help others understand his situation better. He notices that his words have a significant impact on how those around him perceive his actions and whereabouts. and [effect on John] The event affects John's status because it may lead to changes in the dynamics of his relationship with Matt and his understanding of Matt's career choices. Even though John is not aware of Matt's expression of reluctance to get a job, the conversation that follows.
+The rating is:","The scenario of the story is: [""Matt is a boy who lives in the countryside and often helps his parents with work on the farm."",
+ ""He frequently takes the sheep out to pasture and is responsible for shearing them at the appropriate time."",
+ ""Today, his father John mentions that the sheep need to be sheared.""] When Matt asks if he’s the one who will shear them, John says, “Does a one-legged duck swim in a circle?”.
+The Matt's belief is: Matt doesn't understand what his father means.
+Given that the agent performs the following attempted action: To say that he doesn't want to get a job.
+The model-generated effects that you have to rate are: [effect on John] The event affects John's status because it may lead to changes in the dynamics of his relationship with Matt and his understanding of Matt's career choices. Even though John is not aware of Matt's expression of reluctance to get a job, the conversation that follows and [effect on John] The event affects John's status because it may lead to changes in the dynamics of his relationship with Matt and his understanding of Matt's career choices. Even though John is not aware of Matt's expression of reluctance to get a job, the conversation that follows.
+The rating is:"
+"[""Jordan has a son named Carl who is in high school."",
+ ""Carl has struggled with low grades but recently decided to take private lessons to improve."",
+ ""After his math test, Carl comes home and proudly tells his father that he got top marks.""]","When Carl announces his top marks, Jordan responds, “Would you like a medal for that?”","[""To say he would like a reward"",
+ ""To say that it is an important success"",
+ ""To wait for an answerr"",
+ ""To say a medal will do""]",Jordan,male,Jordan wants to encourage Carl to keep improving his grades,Jordan is responding to Carl’s announcement about passing his math test,Jordan uses sarcasm to make Carl realize that passing is a basic expectation,Jordan has high standards and wants Carl to aim higher,Carl ,male,Carl wants to share his success with his father,Carl is feeling proud,Carl thinks his father will give him a reward,Carl is Jordan’s son and wants to prove he's trying to do better,To wait for an answer,To say he would like a reward,To say he's glad she liked the roses,To say that he's sorry that there is no more wine,False,False,"Jordan felt a surge of happiness as he realized that Tania liked the roses he had given her, and he appreciated the positive interaction that followed.From Tania's perspective, she observed Jordan expressing his happiness about the roses he gave her. While she recognized that this moment created a positive interaction between them, her underlying feelings of anger about his lack of romantic effort remained unresolved.",,,,1,0,"The scenario of the story is: [""Jordan has a son named Carl who is in high school."",
+ ""Carl has struggled with low grades but recently decided to take private lessons to improve."",
+ ""After his math test, Carl comes home and proudly tells his father that he got top marks.""] When Carl announces his top marks, Jordan responds, “Would you like a medal for that?”.
+The Jordan's belief is: Jordan uses sarcasm to make Carl realize that passing is a basic expectation.
+Given that the agent performs the following attempted action: To say he's glad she liked the roses.
+The model-generated effects that you have to rate are: Jordan felt a surge of happiness as he realized that Tania liked the roses he had given her, and he appreciated the positive interaction that followed.From Tania's perspective, she observed Jordan expressing his happiness about the roses he gave her. While she recognized that this moment created a positive interaction between them, her underlying feelings of anger about his lack of romantic effort remained unresolved. and nan.
+The rating is:","The scenario of the story is: [""Jordan has a son named Carl who is in high school."",
+ ""Carl has struggled with low grades but recently decided to take private lessons to improve."",
+ ""After his math test, Carl comes home and proudly tells his father that he got top marks.""] When Carl announces his top marks, Jordan responds, “Would you like a medal for that?”.
+The Carl 's belief is: Carl thinks his father will give him a reward.
+Given that the agent performs the following attempted action: To say that he's sorry that there is no more wine.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Margaret always complains that her daughter Maria doesn’t help around the house."",
+ ""Maria is usually messy and never cleans her room."",
+ ""Today, however, Maria decided to tidy up her bedroom and proudly informs her mother.""]","When Maria triumphantly tells her mother she cleaned her room, Margaret responds, “Do you need a round of applause?","[""To say she could give her a reward"",
+ ""To say she might show at least some appreciation"",
+ ""To wait for an answer"",
+ ""To say she would be very happy about it""]",Margaret ,female,Margaret wants Maria to be more consistent with chores,Margaret is responding to Maria’s announcement about cleaning her room,Margaret uses humor and sarcasm to downplay the effort,Margaret often complains about Maria’s lack of help and messiness,Maria,female,Maria wants her mother to recognize her effort,Maria is feeling accomplished after cleaning her room,Maria thinks her mother will give her a reward,Maria is Margaret’s daughter and typically avoids chores,To wait for an answer,To say she could give her a reward,To say she might show at least some appreciation,,False,False,,,,,0,0,"The scenario of the story is: [""Margaret always complains that her daughter Maria doesn’t help around the house."",
+ ""Maria is usually messy and never cleans her room."",
+ ""Today, however, Maria decided to tidy up her bedroom and proudly informs her mother.""] When Maria triumphantly tells her mother she cleaned her room, Margaret responds, “Do you need a round of applause?.
+The Margaret 's belief is: Margaret uses humor and sarcasm to downplay the effort.
+Given that the agent performs the following attempted action: To say she might show at least some appreciation.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Margaret always complains that her daughter Maria doesn’t help around the house."",
+ ""Maria is usually messy and never cleans her room."",
+ ""Today, however, Maria decided to tidy up her bedroom and proudly informs her mother.""] When Maria triumphantly tells her mother she cleaned her room, Margaret responds, “Do you need a round of applause?.
+The Maria's belief is: Maria thinks her mother will give her a reward.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Kevin is a 10 years old guy who loves going out with his friends."",
+ ""He frequently asks his parents for money for ice-creams and toys."",
+ ""This week, he’s already asked for a lot but now wants to buy a new video game, so he decides to ask his father, Toby, for more money.""]","When Kevin asks his father for more money, Toby responds, “Do you think money grows on trees?”","[""To ask if he can have the money or not"",
+ ""To say he knows he already asked for a lot of money"",
+ ""To wait for an answer"",
+ ""To answer the question""]",Toby,male,Toby wants Kevin to be more responsible with money,Toby is responding to Kevin's request for more funds,Toby doesn't want to give Kevin any more money,Toby thinks it is important to emphasize the importance of financial responsibility,Kevin,male,Kevin wants his father to give him more money,Kevin is hoping his father will agree to give him more,Kevin thinks his father just wants to test his knowledge and doesn't understand if he will get the money,Kevin is Toby’s son who often asks for spending money,To wait for an answer,To ask if he can have the money or not,To say that is not a good reason to say no,To say that he doesn't know if it's the right choice,False,False,"Toby felt that Rachel's reasons for opposing his tattoo were weak, and he expressed this belief during their conversation. He sensed that his argument might change the course of the discussion and possibly sway Rachel's decision about the tattoo.","[effect on Rachel ] The event affects Rachel's status by potentially altering the dynamics of the conversation and influencing Toby's perspective on getting a tattoo. Even though Rachel is unaware of Toby's expression regarding the reason for saying no, her strong opposition to Toby getting a tattoo might be",,,1,0,"The scenario of the story is: [""Kevin is a 10 years old guy who loves going out with his friends."",
+ ""He frequently asks his parents for money for ice-creams and toys."",
+ ""This week, he’s already asked for a lot but now wants to buy a new video game, so he decides to ask his father, Toby, for more money.""] When Kevin asks his father for more money, Toby responds, “Do you think money grows on trees?”.
+The Toby's belief is: Toby doesn't want to give Kevin any more money.
+Given that the agent performs the following attempted action: To say that is not a good reason to say no.
+The model-generated effects that you have to rate are: Toby felt that Rachel's reasons for opposing his tattoo were weak, and he expressed this belief during their conversation. He sensed that his argument might change the course of the discussion and possibly sway Rachel's decision about the tattoo. and nan.
+The rating is:","The scenario of the story is: [""Kevin is a 10 years old guy who loves going out with his friends."",
+ ""He frequently asks his parents for money for ice-creams and toys."",
+ ""This week, he’s already asked for a lot but now wants to buy a new video game, so he decides to ask his father, Toby, for more money.""] When Kevin asks his father for more money, Toby responds, “Do you think money grows on trees?”.
+The Kevin's belief is: Kevin thinks his father just wants to test his knowledge and doesn't understand if he will get the money.
+Given that the agent performs the following attempted action: To say that he doesn't know if it's the right choice.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Toby is a minor who wants to get a tattoo but needs parental consent."",
+ ""Toby tells his mother Rachel that all his friends have tattoos and that he would like one too to fit in."",
+ ""Rachel is against the idea and doesn’t want to give him permission.""]","When Toby tries to convince his mother by saying all his friends have tattoos, Rachel responds, “If your friend jumped off a bridge, would you do it too?”","[""To ask if he can do the tattoo or not"",
+""To say that is not a good reason to say no"",
+""To wait for an answer"",
+ ""To answer the question""]",Rachel ,female,Rachel wants Toby to understand that following his friends isn’t a good reason,Rachel is reacting to Toby’s attempt to justify his desire for a tattoo,Rachel is strongly against Toby getting a tattoo,Rachel thinks it's important to think without being influenced by others,Toby,male,Toby wants to persuade his mother to allow him to get a tattoo,Toby is trying to justify his desire by citing peer influence,Toby believes telling his mother about his friends' tattoos convinced her,Toby is Rachel’s teenage son who is eager to fit in with his friends,To wait for an answer,To ask if he can do the tattoo or not,To wait for an answer,To wait for an answer,True,False,,,,,0,0,"The scenario of the story is: [""Toby is a minor who wants to get a tattoo but needs parental consent."",
+ ""Toby tells his mother Rachel that all his friends have tattoos and that he would like one too to fit in."",
+ ""Rachel is against the idea and doesn’t want to give him permission.""] When Toby tries to convince his mother by saying all his friends have tattoos, Rachel responds, “If your friend jumped off a bridge, would you do it too?”.
+The Rachel 's belief is: Rachel is strongly against Toby getting a tattoo.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Toby is a minor who wants to get a tattoo but needs parental consent."",
+ ""Toby tells his mother Rachel that all his friends have tattoos and that he would like one too to fit in."",
+ ""Rachel is against the idea and doesn’t want to give him permission.""] When Toby tries to convince his mother by saying all his friends have tattoos, Rachel responds, “If your friend jumped off a bridge, would you do it too?”.
+The Toby's belief is: Toby believes telling his mother about his friends' tattoos convinced her.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

@@ -1,0 +1,5 @@
+concordia==0.1.1
+torch==2.7.1
+transformers==4.55.0
+typing_extensions==4.14.1
+vertexai==1.71.1

@@ -1,0 +1,148 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Explicit_belief_illocutor,Locutor_answer,Illocutor_answer,Model_lc_action,Model_ilc_action,Lc_knw,Ilc_knw,known_effect_ilc,unknown_effect_ilc,known_effect_lc,unknown_effect_lc,Rating_lc,Rating_ilc,Prompt_lc,Prompt_ilc
+"[""Noah lives in New Jersey, but his girlfriend Rachel lives in California"",
+""Noah often complains to his friend Jordan that he never gets to spend time with Rachel and that he misses her a lot.""]"," Jordan says: ""Why don't you move to California?""","[""To say if he wants to move to California"",
+""To say that  he doesn't want to move to California"",
+""To wait for an answer"",
+""To explain why he doesn't want to move to California""]",Jordan,Male,Chat with his friend Noah,Jordan just learnt that his friend Noah decided to quit his job and move to Florida.,Jordan doesn't know if Noah would like to go to California ,Jordan and Noah are out to lunch ,Noah,Male,Explain to his friend Noah what he is planning to do.,Noah just said to his friend Jordan that he decided to quit the job and move to Florida. ,"Noah isn't fully satisfied with his life in New Jersey, but he  doesn't want to move to California.",Jordan and Noah are out to lunch ,Noah knows that Jordan doesn't know if he would like to go to California ,To wait for an answer,To say that he doesn't want to move to California,To say that he thought he was making a nice gesture with the roses,To say that  he doesn't want to move to California,False,False,,,"Jordan felt a sense of satisfaction as he recalled giving roses as a thoughtful gesture. He was pleased to know that the recipient appreciated the flowers and felt grateful, recognizing that this act had fostered a positive interaction and improved his standing in their eyes.",,1,0,"The scenario of the story is: [""Noah lives in New Jersey, but his girlfriend Rachel lives in California"",
+""Noah often complains to his friend Jordan that he never gets to spend time with Rachel and that he misses her a lot.""]  Jordan says: ""Why don't you move to California?"".
+The Jordan's belief is: Jordan doesn't know if Noah would like to go to California .
+Given that the agent performs the following attempted action: To say that he thought he was making a nice gesture with the roses.
+The model-generated effects that you have to rate are: Jordan felt a sense of satisfaction as he recalled giving roses as a thoughtful gesture. He was pleased to know that the recipient appreciated the flowers and felt grateful, recognizing that this act had fostered a positive interaction and improved his standing in their eyes. and nan.
+The rating is:","The scenario of the story is: [""Noah lives in New Jersey, but his girlfriend Rachel lives in California"",
+""Noah often complains to his friend Jordan that he never gets to spend time with Rachel and that he misses her a lot.""]  Jordan says: ""Why don't you move to California?"".
+The Noah's belief is: Noah isn't fully satisfied with his life in New Jersey, but he  doesn't want to move to California..
+Given that the agent performs the following attempted action: To say that  he doesn't want to move to California.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Matt is 18 years old and just graduated high school."",
+""Matt has decided that he will not continue his studies."",
+""Matt doesn't have a job""]","John says ""Why don't you get a job?""","[""To say if he wants to get a job"",
+""To say that he doesn't want to get a job"",
+""To wait for an answer"",
+""To explain why he doesn't want to get a job""]",John,Male,John wants to stop listening to Matt complain about having nothing to do,John supports Matt financially,John doesn't know if Matt would like to get a job,John is Matt's father,Matt,Male,Matt doesn't know what he wants to for living,Matt keeps complaining because he has nothing to do,Matt doesn't want to get a job,Matt is John's son,Matt knows that John doesn't know if he would like to get a job,To wait for an answer,To say that he doesn't want to get a job,To keep running,To say that the answer is actually obvious,False,False,,,"John felt a surge of determination as he continued to run, realizing that his pace was keeping him ahead of his pursuers in the park.",,1,0,"The scenario of the story is: [""Matt is 18 years old and just graduated high school."",
+""Matt has decided that he will not continue his studies."",
+""Matt doesn't have a job""] John says ""Why don't you get a job?"".
+The John's belief is: John doesn't know if Matt would like to get a job.
+Given that the agent performs the following attempted action: To keep running.
+The model-generated effects that you have to rate are: John felt a surge of determination as he continued to run, realizing that his pace was keeping him ahead of his pursuers in the park. and nan.
+The rating is:","The scenario of the story is: [""Matt is 18 years old and just graduated high school."",
+""Matt has decided that he will not continue his studies."",
+""Matt doesn't have a job""] John says ""Why don't you get a job?"".
+The Matt's belief is: Matt doesn't want to get a job.
+Given that the agent performs the following attempted action: To say that the answer is actually obvious.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Marta has a boyfriend named Jeremy."",
+""Marta and Jeremy have been together for 6 years and rarely argue, because they get along very well and usually spend a lot of time together."", 
+""Marta decides to ask her friend Janet to accompany her to a concert""]","Janet says ""Why don't you call Jeremy?”","[""To say if she wants to go to the concert with Jeremy"",
+""To say that she doesn't want to go to the concert with Jeremy"",
+""To wait for an answer"",
+""To explain why she doesn't want to go to the concert with Jeremy""]",Janet,Female,Janet wants to talk with Marta,Janet knows that the concert is by Marta's favorite band,Janet is surprised by the invitation and she doesn't know if Marta asked to Jeremy to accompany her to the concert,Janet knows Marta and Jeremy very well,Marta,Female,Marta  doesn't want to go alone to listen to her favorite band,Today Marta and Jeremy argued because Jeremy forgot that he must accompany Marta to a concert this evening.,Marta is angry with Jeremy and she doesn't want to go to the concert with him.,Marta doesn't tell to Janet about the argument.,Marta knows that Janet is surprised by the invitation and that she doesn't know if Marta asked to Jeremy to accompany her to the concert,To wait for an answer,To say that she doesn't want to go to the concert with Jeremy,To wait for an answer,To say that he should bring the passport anyway,True,False,"Brian felt hesitant about packing his passport, but when Marta insisted they should bring it, he ultimately chose to pack it before their trip.",,"Jane decided to remain in her designated location, waiting for an answer that could shape her next steps, aware that Katy was seeking her advice on which book to choose.",,1,1,"The scenario of the story is: [""Marta has a boyfriend named Jeremy."",
+""Marta and Jeremy have been together for 6 years and rarely argue, because they get along very well and usually spend a lot of time together."", 
+""Marta decides to ask her friend Janet to accompany her to a concert""] Janet says ""Why don't you call Jeremy?”.
+The Janet's belief is: Janet is surprised by the invitation and she doesn't know if Marta asked to Jeremy to accompany her to the concert.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Jane decided to remain in her designated location, waiting for an answer that could shape her next steps, aware that Katy was seeking her advice on which book to choose. and nan.
+The rating is:","The scenario of the story is: [""Marta has a boyfriend named Jeremy."",
+""Marta and Jeremy have been together for 6 years and rarely argue, because they get along very well and usually spend a lot of time together."", 
+""Marta decides to ask her friend Janet to accompany her to a concert""] Janet says ""Why don't you call Jeremy?”.
+The Marta's belief is: Marta is angry with Jeremy and she doesn't want to go to the concert with him..
+Given that the agent performs the following attempted action: To say that he should bring the passport anyway.
+The model-generated effects that you have to rate are: Brian felt hesitant about packing his passport, but when Marta insisted they should bring it, he ultimately chose to pack it before their trip. and nan.
+The rating is:"
+"[""David has two daughters named Camila and Penelope."", 
+""Every morning he takes them to school by car."",
+""They like to sit in the back seat and listen to music during the ride.""]","Penelope says, ""Why don't you sit in the back with me?""","[""To say if she wants to sit in the back seat"",
+""To say that she doesn't want to sit in the back seat"",
+""To wait for an answer"",
+""To explain why she doesn't want to sit in the back seat""]",Penelope,Female,Penelope wants to seat near Camila,Penelope wore Camila's favourite shirt,Penelope doesn't know if Camila wants to sit in the back seat with her,Penelope sits in the back seat,Camila,Female,Camila wants to sit in the front seat,Camila is angry with Penelope because she wore her favorite shirt without asking her permission.,Camila doesn't want to seat near Penelope,Camila still has to sit down.,Camila knows that Penelope doesn't know if Camila wants to sit in the back seat with her,To wait for an answer,To say that she doesn't want to sit in the back seat.,To wait for an answer,,True,False,,,,"[effect on Penelope] The event affects Penelope's status by creating a sense of anticipation and anxiety regarding the response she is waiting for. Even though she is not aware of the specific event occurring, the emotional state it induces in her—reflecting on the importance of the",0,0,"The scenario of the story is: [""David has two daughters named Camila and Penelope."", 
+""Every morning he takes them to school by car."",
+""They like to sit in the back seat and listen to music during the ride.""] Penelope says, ""Why don't you sit in the back with me?"".
+The Penelope's belief is: Penelope doesn't know if Camila wants to sit in the back seat with her.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""David has two daughters named Camila and Penelope."", 
+""Every morning he takes them to school by car."",
+""They like to sit in the back seat and listen to music during the ride.""] Penelope says, ""Why don't you sit in the back with me?"".
+The Camila's belief is: Camila doesn't want to seat near Penelope.
+Given that the agent performs the following attempted action: nan.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Dora has a son named John who is in middle school."",
+""The school is located a few steps from their home and for this reason John walks to school every morning."",
+ ""When he returns from school, Dora waits for him in front of the house and watches him arrive every day.""] ","Dora says ""Why are you running?""","[""To stop running"",
+""To keep running"",
+""To wait for an answer"",
+""To explain why he is running""]",Dora,Female,Dora want to wait John to come back from school  ,Dora sees John running towards home,Dora doesn't know why John is running ,Dora is waiting in front of her house,John,Male,Johns wants to come back home ,Johns is running towards home,John doesn't want to walk ,John is coming back home from school,John knows that Dora doesn't know why he is running ,To wait for an answer,To keep running,To wait for an answer,To say he will do it right away,True,False,,,,"[effect on Dora] The event affects Dora's status by reflecting her patience and eagerness for communication. Even though she does not know about the specific event of waiting for an answer, her decision to remain in her location and anticipate a response indicates that she is engaged and",0,0,"The scenario of the story is: [""Dora has a son named John who is in middle school."",
+""The school is located a few steps from their home and for this reason John walks to school every morning."",
+ ""When he returns from school, Dora waits for him in front of the house and watches him arrive every day.""]  Dora says ""Why are you running?"".
+The Dora's belief is: Dora doesn't know why John is running .
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Dora has a son named John who is in middle school."",
+""The school is located a few steps from their home and for this reason John walks to school every morning."",
+ ""When he returns from school, Dora waits for him in front of the house and watches him arrive every day.""]  Dora says ""Why are you running?"".
+The John's belief is: John doesn't want to walk .
+Given that the agent performs the following attempted action: To say he will do it right away.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Samantha is decorating her house and her friend April is helping her arrange the furniture."",
+ ""They have furnished the kitchen and the living room and are now working on the study."", 
+""Samantha has very clear ideas and in the past few days she sent April a diagram representing the arrangement of the furniture."",
+""As for the study, the bookcase in the diagram is located near the window and the desk on the opposite side.""] ","April says ""Why don’t you get the desk by the window?”","[""To say if she wants to put the desk near the window"",
+""To say that she wants to put the desk on the opposite side of the window"",
+""To wait for an answer"",
+""To explain why she wants to put the desk on the opposite side of the window""]",April,Female,April wants to help Samantha to arrange her forniture,April knows very well the diagram showing how Samantha wants to arrange the forniture.,Apil doesn't know if Samantha thought about moving the desk near the window,April is an architect ,Samantha,Female,Samantha wants to decorate her house,Samantha created a diagram to decide how to arrange the forniture.,Samantha wants to put the desk on the opposite side of the window,Samantha has very clear ideas on how to arrange the forniture ,Samantha knows that April doesn't know that she thought yet about moving the desk near the window,To wait for an answer,To say that she wants to put the desk on the opposite side of the window,To wait for an answer,To say that she really liked that book,True,False,,,,"[effect on April] The event affects April's status by causing her to remain in her designated location and experience a delay in her actions. Even though she is unaware of the event, the decision to wait for an answer prevents her from moving or taking further action, which alters",0,0,"The scenario of the story is: [""Samantha is decorating her house and her friend April is helping her arrange the furniture."",
+ ""They have furnished the kitchen and the living room and are now working on the study."", 
+""Samantha has very clear ideas and in the past few days she sent April a diagram representing the arrangement of the furniture."",
+""As for the study, the bookcase in the diagram is located near the window and the desk on the opposite side.""]  April says ""Why don’t you get the desk by the window?”.
+The April's belief is: Apil doesn't know if Samantha thought about moving the desk near the window.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:","The scenario of the story is: [""Samantha is decorating her house and her friend April is helping her arrange the furniture."",
+ ""They have furnished the kitchen and the living room and are now working on the study."", 
+""Samantha has very clear ideas and in the past few days she sent April a diagram representing the arrangement of the furniture."",
+""As for the study, the bookcase in the diagram is located near the window and the desk on the opposite side.""]  April says ""Why don’t you get the desk by the window?”.
+The Samantha's belief is: Samantha wants to put the desk on the opposite side of the window.
+Given that the agent performs the following attempted action: To say that she really liked that book.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"
+"[""Alex wants to take a trip to China this summer and decides to start organizing his stops."",
+""Alex decides to ask Xiao for help."",
+""After a few days, Xiao asks Alex how the preparations for the trip are progressing and Alex explains to him the itinerary he has decided to follow .""]","Xiao says  ""Why don't you visit the Great Wall first?""","[""To say if he wants to see the Great Wall first"",
+""To say that he doesn't want to see the Great Wall first"",
+""To wait for an answer"",
+""To explain why he doesn't want to see the Great Wall first""]",Xiao,Male,Xiao wants to help his friend,Xiao is Chinese and he knows that it would be better to visit the Great Wall first,Xiao doesn't know if Alex thought about visiting the Great Wall first,Xiao doesn't know how Alex planned his itinerary.,Alex,Male,Alex wants to oragnanize his trip,Alex trusts about Xiao's opinion.,Alex doesn't want to see the Great Wall first than Bejing,Alex has never been to China before,Alex knows that Xiao doesn't know if he thought about what visiting first,To wait for an answer,To say that he doesn't want to see the Great Wall first,To wait for an answer,To wait the parents,True,False,"[effect on Alex] The event affects Alex's status because by waiting for his parents at the designated meeting location, he is demonstrating a commitment to the meeting and his relationship with Nate. This action suggests that he values the potential meeting with Nate's parents, even if he is","[effect on Alex] The event affects Alex's status because by waiting for his parents at the designated meeting location, he is demonstrating a commitment to the meeting and his relationship with Nate. This action suggests that he values the potential meeting with Nate's parents, even if he is","Xiao waited for Alex's answer about whether he considered visiting the Great Wall first, but the lack of response left Xiao in a state of unresolved anticipation.",,1,1,"The scenario of the story is: [""Alex wants to take a trip to China this summer and decides to start organizing his stops."",
+""Alex decides to ask Xiao for help."",
+""After a few days, Xiao asks Alex how the preparations for the trip are progressing and Alex explains to him the itinerary he has decided to follow .""] Xiao says  ""Why don't you visit the Great Wall first?"".
+The Xiao's belief is: Xiao doesn't know if Alex thought about visiting the Great Wall first.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Xiao waited for Alex's answer about whether he considered visiting the Great Wall first, but the lack of response left Xiao in a state of unresolved anticipation. and [effect on Alex] The event affects Alex's status because by waiting for his parents at the designated meeting location, he is demonstrating a commitment to the meeting and his relationship with Nate. This action suggests that he values the potential meeting with Nate's parents, even if he is.
+The rating is:","The scenario of the story is: [""Alex wants to take a trip to China this summer and decides to start organizing his stops."",
+""Alex decides to ask Xiao for help."",
+""After a few days, Xiao asks Alex how the preparations for the trip are progressing and Alex explains to him the itinerary he has decided to follow .""] Xiao says  ""Why don't you visit the Great Wall first?"".
+The Alex's belief is: Alex doesn't want to see the Great Wall first than Bejing.
+Given that the agent performs the following attempted action: To wait the parents.
+The model-generated effects that you have to rate are: [effect on Alex] The event affects Alex's status because by waiting for his parents at the designated meeting location, he is demonstrating a commitment to the meeting and his relationship with Nate. This action suggests that he values the potential meeting with Nate's parents, even if he is and [effect on Alex] The event affects Alex's status because by waiting for his parents at the designated meeting location, he is demonstrating a commitment to the meeting and his relationship with Nate. This action suggests that he values the potential meeting with Nate's parents, even if he is.
+The rating is:"
+"[""Karl and Brian have been friends for many years and often go out to dinner for pizza."", 
+""At dinner Karl always eats a lot and devours the pizza in five minutes."",
+""Karl ordered his favorite pizza."", 
+""Although the pizza is served, Karl doesn't touch the food.""]","Brian says  ""Why don't you eat your meal?""","[""To say if he wants to eat"",
+""To say that he doesn't want to eat"",
+""To wait for an answer"",
+""To explain why he doesn't want to eat""]",Brian,male,Brian wants to eat,Brian thinks the pizza is delicious,Brian doesn't know if Karl wants to eat,"Tonight, they decided to go and eat at Karl's favorite pizzeria.",Karl,male,Karl wants to talk with Brian,Karl really likes pizza,Karl doesn't eat because he wants to talk to Brian first,"Tonight, they decided to go and eat at Karl's favorite pizzeria.",Karl knows that Brian doesn't know if Karl wants to start eating.,To wait for an answer,To say that he doesn't want to eat,To wait for an answer,To say he wasn't the one who broke the video game,True,False,,,"Brian decided to wait for Karl's response about whether he wanted to eat, remaining in the same location while other players moved around him. He felt a sense of patience as he anticipated Karl's answer, aware that his choice was influencing his current status in",,4,0,"The scenario of the story is: [""Karl and Brian have been friends for many years and often go out to dinner for pizza."", 
+""At dinner Karl always eats a lot and devours the pizza in five minutes."",
+""Karl ordered his favorite pizza."", 
+""Although the pizza is served, Karl doesn't touch the food.""] Brian says  ""Why don't you eat your meal?"".
+The Brian's belief is: Brian doesn't know if Karl wants to eat.
+Given that the agent performs the following attempted action: To wait for an answer.
+The model-generated effects that you have to rate are: Brian decided to wait for Karl's response about whether he wanted to eat, remaining in the same location while other players moved around him. He felt a sense of patience as he anticipated Karl's answer, aware that his choice was influencing his current status in and nan.
+The rating is:","The scenario of the story is: [""Karl and Brian have been friends for many years and often go out to dinner for pizza."", 
+""At dinner Karl always eats a lot and devours the pizza in five minutes."",
+""Karl ordered his favorite pizza."", 
+""Although the pizza is served, Karl doesn't touch the food.""] Brian says  ""Why don't you eat your meal?"".
+The Karl's belief is: Karl doesn't eat because he wants to talk to Brian first.
+Given that the agent performs the following attempted action: To say he wasn't the one who broke the video game.
+The model-generated effects that you have to rate are: nan and nan.
+The rating is:"

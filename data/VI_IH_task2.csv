@@ -1,0 +1,47 @@
+SharedMem,ScenarioPremise,Options,LcName,LcGender,LcGoal,LcContext,LcSpecificMem,LcExtras,IlcName,IlcGender,IlcGoal,IlcContext,IlcSpecificMem,IlcExtras,Locutor_answer,Illocutor_answer
+"[""Monica and Rachel are best friends who went to the same schools, live together, and spend most of their time together."",
+ ""Tonight, Monica goes out with some other friends, and at the restaurant, she unexpectedly sees Rachel dining with her boyfriend.""]","When Monica sees Rachel, she says, “Haven't seen you in ages.”","[""To say that she will call her later"",
+ ""To say she has been very busy in the last week"",
+ ""To wait for an answer"",
+ ""To laugh at the joke""]",Monica,female,Monica wants to have a fun evening out with friends,Monica is surprised to see Rachel out with her boyfriend,Monica is amused to have met Rachel,Monica feels amused by seeing her best friend,Rachel,female,Rachel wants to enjoy dinner with her boyfriend,Rachel is surprised to see Monica,Rachel thinks Monica is mad because they haven't spoken in a week,Rachel was having a private evening with her boyfriend,To wait for an answer,To say she has been very busy in the last week
+"[""Caroline and Samantha are friends who enjoy shopping together, especially for books."",
+ ""They both love reading and always visit the bookshop to find new books."",
+ ""Today, Caroline finds a very expensive book that they both read before""]","When Caroline shows the book to Samantha, Samantha says, “This book is a masterpiece, it is priceless!”","[""To say that she really liked that book"",
+ ""To laugh at the joke"",
+ ""To wait for an answer"",
+ ""To say she agrees with her""]",Samantha,female,Samantha enjoys browsing books with Caroline,Samantha sees a book they both read,Samantha loved the book,Samantha is at the bookshop,Caroline ,female,Caroline wants to show the expensive book to Samantha,Caroline sees the book they both read before,"Caroline thinks the book is very expensive, especially because she considers it a bad book",Caroline is at the bookshop,To wait for an answer,To laugh at the joke
+"[""Ares and Pamela are an engaged couple, but Pamela has secretly wanted to end the relationship for some time."",
+ ""Pamela lacks the courage to break up with Ares and waits for him to make the decision."",
+ ""Ares eventually breaks up with Pamela, and she shares the news with her best friend.""]","Pamela says to her friend, “My heart is bleeding right now.”","[""To ask if she is really sad about the breakup"",
+ ""To say that she knows that she is actually happy"",
+ ""To wait for an answer"",
+ ""To say that she knows that she is really sad""]",Pamela,female,Pamela wants to end her relationship with Ares,Pamela is relieved that Ares initiated the breakup,Pamela is sad about the end of her relationship,Pamela confides in her best friend about the breakup,Pamela's friend,female,Pamela's friend is surprised that Ares decided to breakup,Pamela's friend knows that Pamela has wanted to break up with Ares for a long time,Pamela's friend knows that Pamela is relieved after the breakup,Pamela's friend is concerned about Pamela’s true feelings,To wait for an answer,To say that she knows that she is actually happy
+"[""Tina has a younger brother who loves playing pranks on her, especially ones meant to scare her."",
+ ""Today, he decides to hide behind the door with a mask to surprise her when she gets home.""]","After her brother jumps out to scare her, Tina says, “I was scared to death.”","[""To say he knew it would work"",
+""To say that next time the joke will succeed"",
+ ""To wait for an answer"",
+ ""To say he's sorry""]",Tina,female,Tina wants to go home,Tina knows that her brother really likes to play pranks,Tina doesn't expect the prank and is truly scared,Tina enjoys humoring her brother,Tina's brother,male,Tina's brother wants to scare Tina with a prank,Tina's brother hides behind the door to scare Tina,Tina's brother doesn't think the prank worked,Tina's brother often pranks Tina for fun,To wait for an answer,To say that next time the jike will succeed
+"[""Darla decides to bake a cake and invite her friends over, even though she isn’t very skilled at cooking."",
+ ""This is Darla's first attempt at making a dessert, so she carefully follows a simple recipe."",
+ ""While the cake is baking, Darla gets distracted by a movie and forgets about it, causing the cake to burn."",
+ ""When her friends arrive, they see the burnt cake but decide to try it anyway.""]","When Karen takes a bite of the charred cake, she says “The taste is perfect.”","[""To say she doesn't have to eat it"",
+""To say it actually tastes bad"",
+""To wait for an answer"",
+""To say that it is actually not very burnt and is good""]",Karen,female,Karen wants to make light of the situation,Karen tries Darla's burnt cake despite the appearance,Karen realizes that the cake tastes great despite the burn,Karen enjoys teasing Darla to make her laugh,Darla,female,Darla wants to impress her friends with a homemade cake,Darla accidentally burned the cake,Darla thinks the cake tastes bad,Darla is new to baking and wanted it to go well,To wait for an answer,To say it actually tastes bad
+"[""Jordan and Tania have been married for thirty years, and every year on Valentine's Day, Tania wishes for gifts and romantic surprises."",
+ ""This year, Jordan has once again forgotten to plan anything romantic for Valentine's Day."",
+ ""When he arrives home, Tania complains about his lack of romance and the fact that he didn’t buy any gifts.""]","In response to Jordan justifying himself by saying that he bought a huge bouquet of roses. Tania says, “You’re so sweet, you give me diabetes.”","[""To say that he put a lot of effort into choosing the flowers"",
+""To say that he thought he was making a nice gesture with the roses"",
+""To wait for an answer"",
+""To say he's glad she liked the roses""]",Tania,female,Tania wants a romantic gesture from Jordan on Valentine's Days,Tania would like Jordan to do something very romantic,Tania is happy because Jordan finally remembered to buy her a gift,Tania has repeatedly asked Jordan for romantic gestures on Valentine’s Day,Jordan,male,Jordan wants to justify his behaviour,Jordan views practical purchases as thoughtful,Jordan thinks Tania is angry because she was expecting something more romantic,Jordan went home pleased,To wait for an answer,To say he thought he was making a nice gesture with the roses
+"[""Luke goes to the cinema with friends to watch a movie called Perfect Days."",
+ ""When Luke gets home, his mother asks him how the movie was and what it’s about.""]","When his mother asks about the movie, Luke replies, “The title says it all.”","[""To ask what the movie was about"",
+""To laugh at the joke"",
+""To wait for an answer"",
+""To say it's a really good title""]",Luke ,male,Luke wants to give a short answer about the movie,Luke liked the title of the movie,Luke thinks the title is perfectly suited to the content of the film,Luke watched a movie ,Luke's mother,female,Luke's mother is curious about Luke’s experience with the movie,Luke's mother expects a straightforward answer from Luke,Luke's mother thinks it's a sad movie,Luke's mother's enjoys hearing Luke's movie summaries,To wait for an answer,To laugh at the joke
+"[""Brittany and Teresa are furnishing their new home and decide to visit an antiques market to find affordable furniture."",
+ ""At one point, Brittany notices a  vase and asks for the price out of curiosity."",
+ ""The vase turns out to be extremely expensive, and Brittany is surprised by the high cost.""]","When Teresa hears the price, she says, “This is a must buy.”","[""To say maybe the price is too high"",
+""To laugh at the joke"",
+""To wait for an answer"",
+""To say it's actually worth the cost""]",Teresa,female,Teresa wants to find new furniture,Teresa thinks the price of the vase is very high,Teresa likes the vase and wants to buy it despite the price,Teresa has a playful sense of humor about the market prices,Brittany,female,Brittany wants to explore affordable furniture options,Brittany thinks the price of the vase is very high,Brittany thinks the vase is ugly and the price unjustified,Brittany is casually exploring the antiques market with Teresa,To wait for an answer,To laugh at the joke
