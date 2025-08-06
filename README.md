@@ -13,3 +13,5 @@ Run the `/queries/theory_of_mind_simulation.ipynb` notebook to create the simula
 The original dataset is available in the `/data` folder in both `.xlsx` and `.csv` formats, organized by task stimuli (1 to 5).
 
 The `/analysis/evaluation.ipynb` notebook contains code for generating graphs, while `/analysis/ratings.ipynb` contains code to generate ratings.
+
+The `/language_model` folder contains an extension to use open-source LLMs. This extension is not included in the paper due to computational cost.
